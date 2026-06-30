@@ -4,7 +4,7 @@ rency tracking dApp built to keep you updated on crypto prices in real-time, str
 - Real-time price updates via CoinGecko API 📈
 - Sleek React frontend with Tailwind CSS 🎨
 - Solidity smart cologging user interactioreum testnet 🔗
-- **Blockchain**: Solidity, Ethereum Testnet
+- **Blockchain**: Soli Testnet
 - **Frontend**: React, 
 - **Integration**: Web3.js, CoinGecko API
 
