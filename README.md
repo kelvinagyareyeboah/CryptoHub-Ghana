@@ -5,7 +5,7 @@ rency tracking dApp built to keep you updated on crypto prices in real-time, str
 - Sleek React frontend with Tailwind CSS 🎨
 - Solidity smart cologging user interactioreum testnet 🔗
 - **Frontend**: React, 
-- **Integration**: Web3.js, Coi
+- **Integration**: W
 
 ## Getting Started ⚡
 1. Clone the repo: `git clone https://github.com/KelvCodes/CryptoHubGhana.git`
