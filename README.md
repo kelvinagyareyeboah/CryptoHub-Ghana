@@ -8,7 +8,7 @@ rency tracking dApp built to keep you updated on crypto prices in real-time, str
 - **Integration**: W
 
 ## Getting Started ⚡
-1. Clone the repo: `git clone https://github.com/KelvCodes/CryptoHubGhana.git`
+1. Clone the repo: `git /github.com/KelvCodes/CryptoHubGhana.git`
 2. Install dependencies: `npm install`
 3. Start the app: `npm start`
 4. Connect your wallet (e.g., MetaMask) and explore! 🌐
