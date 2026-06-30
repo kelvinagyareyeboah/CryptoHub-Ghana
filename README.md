@@ -5,7 +5,7 @@ rency tracking dApp built to keep you updated on crypto prices in real-time, st
 - Solidity smart cologging user interactioreum testnet 🔗
   
 1. Clone the repo: `git /github.com/KelvCodeit`
-3. Start the app: `npm start`
+3. npm start`
 4. Connect your wallet (e.g., MetaMask) and explore! 🌐
 ##
 Tracks crypto prices and logs interactions transparently—perfect for enthusiasts and auditors alike!
