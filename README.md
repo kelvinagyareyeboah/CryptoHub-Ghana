@@ -1,6 +1,5 @@
 # CryptoHu🚀
-
-A decentralized cryptocurrency tracking dApp built to keep you updated on crypto prices in real-time, straight from Ghana! 🇬🇭
+rency tracking dApp built to keep you updated on crypto prices in real-time, straight from Ghana! 🇬🇭
 
 ## Features ✨
 - Real-time price updates via CoinGecko API 📈
