@@ -7,8 +7,7 @@ rency tracking dApp built to keep you updated on crypto prices in real-time, st
 1. Clone the repo: `git /github.com/KelvCodeit`
 3. Start the app: `npm start`
 4. Connect your wallet (e.g., MetaMask) and explore! 🌐
-
-## Why It’s Cool 😎
+##
 Tracks crypto prices and logs interactions transparently—perfect for enthusiasts and auditors alike!
 
 ## Contributions 
