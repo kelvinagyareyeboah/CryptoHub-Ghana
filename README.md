@@ -5,7 +5,6 @@ rency tracking dApp built to keep you updated on crypto prices in real-time, st
 - Solidity smart cologging user interactioreum testnet 🔗
   
 1. Clone the repo: `git /github.com/KelvCodeit`
-2. Install dall`
 3. Start the app: `npm start`
 4. Connect your wallet (e.g., MetaMask) and explore! 🌐
 
