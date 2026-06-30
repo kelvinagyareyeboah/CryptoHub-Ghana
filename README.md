@@ -3,7 +3,7 @@ rency tracking dApp built to keep you updated on crypto prices in real-time, st
 - Real-time ps via CoinGecko API 📈
 - Sleek React frontend with Tailwind CSS 🎨
 - Solidity smart cologging user interactioreum testnet 🔗
-- **Frontend**: React, 
+- **F
 - 
 1. Clone the repo: `git /github.com/KelvCodes/CryptoHubGhana.git`
 2. Install dependencies: `npm install`
