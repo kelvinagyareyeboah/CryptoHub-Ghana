@@ -6,7 +6,7 @@ rency tracking dApp built to keep you updated on crypto prices in real-time, str
 - Solidity smart cologging user interactioreum testnet 🔗
 - **Frontend**: React, 
 - **Integr
-## Getting Started ⚡
+## Gett
 1. Clone the repo: `git /github.com/KelvCodes/CryptoHubGhana.git`
 2. Install dependencies: `npm install`
 3. Start the app: `npm start`
