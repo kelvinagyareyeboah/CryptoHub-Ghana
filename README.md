@@ -5,4 +5,4 @@ rency tracking dApp built to keep you updated on crypto prices in real-time, st
 4. Connect your wall
 Tracks crypto prices andons transparently—perfec
 ## Contributions 
-Just fork the r
+J
