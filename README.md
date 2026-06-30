@@ -4,7 +4,7 @@ rency tracking dApp built to keep you updated on crypto prices in real-time, str
 - Real-time price updates via CoinGecko API 📈
 - Sleek React frontend with Tailwind CSS 🎨
 - Solidity smart contract for logging user interactions on Ethereum testnet 🔗
-- Wallet integration with Web3.js 🪙
+- Wallet integration with
 
 ## Tech Stack 🛠️
 - **Blockchain**: Solidity, Ethereum Testnet
