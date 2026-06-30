@@ -3,9 +3,8 @@ rency tracking dApp built to keep you updated on crypto prices in real-time, st
 - Real-time ps via CoinGecko API 📈
 - Sleek React frontend with Tailwind CSS 🎨
 - Solidity smart cologging user interactioreum testnet 🔗
-- **F
-- 
-1. Clone the repo: `git /github.com/KelvCodes/CryptoHubGhana.git`
+  
+1. Clone the repo: `git /github.com/KelvCodeit`
 2. Install dall`
 3. Start the app: `npm start`
 4. Connect your wallet (e.g., MetaMask) and explore! 🌐
