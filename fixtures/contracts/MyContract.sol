@@ -1,8 +1,7 @@
 
     uint256 public lastEmergencyAction;
+s
 
-    uint256 public totalUpdates;
-    uint256 public totalAdminsAdded;
 
     // History Storage
     struct HistoryEntry {
