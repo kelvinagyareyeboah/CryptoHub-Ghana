@@ -1,6 +1,4 @@
-ion
-contract MyContract {
-    // Versioning & Metadata
+ata
     string publicstant CONTRACT_NAME = "MyContract";
     string public constant CONTRACT_VERSION = "4.0.0";
 
