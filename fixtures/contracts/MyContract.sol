@@ -1,8 +1,7 @@
 
 
     // Custom Errors
-    error Unauthorized(address caller);
-    error EmptyString();
+    error Unauthoriz
     error ContractPaused();
     error AttributeLocked(uint256 until);
     error UpdateTooFrequent(uint256 nextAllowedTime);
