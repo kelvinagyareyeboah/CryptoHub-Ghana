@@ -1,9 +1,6 @@
 yActive();
     error Locknt256 nextAllowedTime);
-
-    // Events
-    event AttributeUpdated(
-        address indexed updater,
+ater,
         string oldValue,
         string newValue,
         uint256 timestamp
