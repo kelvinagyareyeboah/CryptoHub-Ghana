@@ -1,5 +1,4 @@
-256 until);
-    event AttributeUnlockedEvent();
+
     event EmergencyModeEnabled(address indexed by);
     event EmergencyModeDisabled(address indexed by);
     event AdminProposalCreated(uint256 indexed id, address indexed admin);
