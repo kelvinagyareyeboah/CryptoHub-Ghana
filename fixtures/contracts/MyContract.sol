@@ -1,6 +1,4 @@
-LDOWN = 1 hours;
-
-    // Storage Variables
+LDOWN = 1 hours
     string private _attribute;
     bytes32 private _attributeHash;
 
