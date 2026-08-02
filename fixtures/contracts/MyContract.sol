@@ -1,6 +1,4 @@
 s
-
- * This contract demonstrates:
  * - Secure string storage
  * - Role-based access control
  * - Rate limiting
