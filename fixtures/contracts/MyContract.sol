@@ -1,5 +1,4 @@
-
-    modifier onlyAdminOrOwner() {
+() {
         if (msg.sender != oworized(msg.sender);
         }
         _;
