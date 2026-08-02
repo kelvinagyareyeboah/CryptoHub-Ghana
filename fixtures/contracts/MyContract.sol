@@ -1,6 +1,6 @@
 
     struct AdminProposal {
-        address proposedAdmin;
+        address p
         address proposer;
         uint256 timestamp;
         bool approved;
