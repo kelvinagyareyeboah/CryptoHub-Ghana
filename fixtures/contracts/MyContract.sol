@@ -1,7 +1,4 @@
 ion
- * - Emergency recovery patterns
- * - Governance-style admin approvals
- */
 contract MyContract {
     // Versioning & Metadata
     string public constant CONTRACT_NAME = "MyContract";
