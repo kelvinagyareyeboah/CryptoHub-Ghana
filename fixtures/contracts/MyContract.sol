@@ -1,5 +1,4 @@
-nt256 indexed id);
-    event AdminProposalExecuted(uint256 indexed id);
+(uint256 indexed id);
 
     // Modifiers
     modifier onlyOwner() {
