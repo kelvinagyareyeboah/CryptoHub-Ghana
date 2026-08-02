@@ -1,9 +1,4 @@
-ified;
-    }
 
-    HistoryEntry[] private history;
-
-    // Admin Proposals
     struct AdminProposal {
         address proposedAdmin;
         address proposer;
