@@ -1,7 +1,4 @@
 
-    uint256 public lastEmergencyAction;
-s
-
 
     // History Storage
     struct HistoryEntry {
