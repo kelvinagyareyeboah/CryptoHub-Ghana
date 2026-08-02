@@ -1,6 +1,4 @@
-
-        if (block.timestamp < lastUpdateAttempt + MIN_UPDATE_INTERVAL) {
-            revert UpdateTooFrequent(lastUpdateAttempt + MIN_UPDATE_INTERVAL);
+lastUpdateAttempt + MIN_UPDATE_INTERVAL);
         }
         _;
     }
