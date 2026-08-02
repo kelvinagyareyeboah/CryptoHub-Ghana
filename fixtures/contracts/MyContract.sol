@@ -1,5 +1,4 @@
-
- * MyContract v4.0 — Enterprise & Audit-Grade Solidity Contract
+udit-Grade Solidity Contract
  *
  * Author: Kelvin
  *
