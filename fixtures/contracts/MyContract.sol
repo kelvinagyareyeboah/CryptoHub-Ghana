@@ -1,14 +1,4 @@
-
-        noEmergency 
-        rateLimited 
-    {
-        require(bytes(newValue).length > 0, "Empty string");
-        
-        string memory oldValue = _attribute;
-        _setAttribute(newValue);
-        _addHistoryEntry(newValue, msg.sender);
-        
-        emit AttributeUpdated(msg.sender, oldValue, newValue, block.timestamp);
+ldValue, newValue, block.timestamp);
     }
 
     // Pause & Lock Controls
