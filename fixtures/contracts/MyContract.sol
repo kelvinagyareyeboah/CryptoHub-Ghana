@@ -1,6 +1,5 @@
 
-    bool public emergencyMode;
-
+    bool public eme
     uint256 public lastUpdated;
     uint256 public lastUpdateAttempt;
     uint256 public lockUntil;
