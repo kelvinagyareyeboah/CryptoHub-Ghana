@@ -1,16 +1,4 @@
-ldValue, newValue, block.timestamp);
-    }
 
-    // Pause & Lock Controls
-    function pause() external onlyOwner {
-        paused = true;
-        emit ContractPaused(msg.sender);
-    }
-
-    function unpause() external onlyOwner {
-        paused = false;
-        emit ContractUnpaused(msg.sender);
-    }
 
     function lockAttribute(uint256 duration) external onlyOwner {
         require(duration <= MAX_LOCK_DURATION, "Duration too long");
