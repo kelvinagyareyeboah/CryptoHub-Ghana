@@ -1,6 +1,4 @@
 
-
-    // Custom Errors
     error Unauthoriz
     error ContractPaused();
     error AttributeLocked(uint256 until);
