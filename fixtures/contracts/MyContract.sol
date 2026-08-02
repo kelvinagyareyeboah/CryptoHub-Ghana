@@ -1,6 +1,5 @@
 
-        uint256 timestamp;
-        address updater;
+        uint256 timestam
         bool integrityVerified;
     }
 
