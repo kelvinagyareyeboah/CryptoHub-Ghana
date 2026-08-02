@@ -1,5 +1,4 @@
-lastUpdateAttempt + MIN_UPDATE_INTERVAL);
-        }
+
         _;
     }
 
