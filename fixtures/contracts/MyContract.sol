@@ -1,5 +1,4 @@
-smatch();
-    error EmergencyActive();
+yActive();
     error LockDurationTooLong();
     error CooldownActive(uint256 nextAllowedTime);
 
