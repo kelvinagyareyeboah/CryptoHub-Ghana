@@ -1,7 +1,4 @@
 
-        bo
-
-    AdminProposal[] private adminProposals;
 
     // Custom Errors
     error Unauthorized(address caller);
