@@ -1,5 +1,4 @@
-udit-Grade Solidity Contract
- *
+
  * Author: Kelvin
  *
  * This contract demonstrates:
