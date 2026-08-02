@@ -1,9 +1,4 @@
 
-        if (emergencyMode) revert EmergencyActive();
-        _;
-    }
-
-    modifier emergencyCooldown() {
         if (block.timestamp < lastEmergencyAction + EMERGENCY_COOLDOWN) {
             revert CooldownActive(lastEmergencyAction + EMERGENCY_COOLDOWN);
         }
