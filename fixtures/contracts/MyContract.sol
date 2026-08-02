@@ -1,8 +1,3 @@
-s);
-        lastUpdated = block.timestamp;
-        lastUpdateAttempt = block.timestamp;
-        totalUpdates++;
-    }
 
     function _verify(string memory value, bytes32 hash) internal pure returns (bool) {
         return keccak256(abi.encodePacked(value)) == hash;
