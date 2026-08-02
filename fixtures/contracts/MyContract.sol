@@ -1,6 +1,5 @@
 yActive();
-    error LockDurationTooLong();
-    error CooldownActive(uint256 nextAllowedTime);
+    error Locknt256 nextAllowedTime);
 
     // Events
     event AttributeUpdated(
