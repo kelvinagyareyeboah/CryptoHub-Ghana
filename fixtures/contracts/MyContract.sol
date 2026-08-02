@@ -1,7 +1,4 @@
-
-    uint256 public constant MIN_UPDATE_INTERVAL = 30;
-    uint256 public constant MAX_LOCK_DURATION = 30 days;
-    uint256 public constant EMERGENCY_COOLDOWN = 1 hours;
+LDOWN = 1 hours;
 
     // Storage Variables
     string private _attribute;
