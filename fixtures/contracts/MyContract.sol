@@ -1,6 +1,5 @@
+s
 
- * Author: Kelvin
- *
  * This contract demonstrates:
  * - Secure string storage
  * - Role-based access control
