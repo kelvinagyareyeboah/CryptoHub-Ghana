@@ -1,7 +1,4 @@
 
-    struct AdminProposal {
-        address p
-        uint256 timestamp;
         bool approved;
         bool executed;
     }
