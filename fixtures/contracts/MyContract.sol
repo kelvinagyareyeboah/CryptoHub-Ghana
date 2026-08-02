@@ -1,11 +1,4 @@
 
-    function _verify(string memory value, bytes32 hash) internal pure returns (bool) {
-        return keccak256(abi.encodePacked(value)) == hash;
-    }
-
-    function _addHistoryEntry(string memory value, address updater) internal {
-        history.push(
-            HistoryEntry({
                 value: value,
                 valueHash: _attributeHash,
                 timestamp: block.timestamp,
