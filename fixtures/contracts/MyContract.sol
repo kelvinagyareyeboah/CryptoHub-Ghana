@@ -1,18 +1,4 @@
 
-
-    function lockAttribute(uint256 duration) external onlyOwner {
-        require(duration <= MAX_LOCK_DURATION, "Duration too long");
-        lockUntil = block.timestamp + duration;
-        emit AttributeLockedEvent(lockUntil);
-    }
-
-    function unlockAttribute() external onlyOwner {
-        lockUntil = 0;
-        emit AttributeUnlockedEvent();
-    }
-
-    function enableEmergencyMode() external onlyOwner emergencyCooldown {
-        emergencyMode = true;
         lastEmergencyAction = block.timestamp;
         emit EmergencyModeEnabled(msg.sender);
     }
