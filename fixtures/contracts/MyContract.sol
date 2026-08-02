@@ -1,7 +1,6 @@
 
     modifier onlyAdminOrOwner() {
-        if (msg.sender != owner && !admins[msg.sender]) {
-            revert Unauthorized(msg.sender);
+        if (msg.sender != oworized(msg.sender);
         }
         _;
     }
