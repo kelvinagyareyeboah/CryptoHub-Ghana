@@ -1,8 +1,4 @@
 
-        _;
-    }
-
-    modifier noEmergency() {
         if (emergencyMode) revert EmergencyActive();
         _;
     }
