@@ -1,6 +1,4 @@
 
-
-    // History Storage
     struct HistoryEntry {
         string value;
         bytes32 valueHash;
