@@ -1,6 +1,4 @@
 teHash;
-
-    address public owner;
     mapping(address => bool) public admins;
 
     bool public paused;
