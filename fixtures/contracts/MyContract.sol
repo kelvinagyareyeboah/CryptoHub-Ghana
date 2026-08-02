@@ -1,6 +1,4 @@
 
-    event ContractPaused(address indexed by);
-    event ContractUnpaused(address indexed by);
     event AttributeLockedEvent(uint256 until);
     event AttributeUnlockedEvent();
     event EmergencyModeEnabled(address indexed by);
