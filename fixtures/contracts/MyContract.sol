@@ -1,5 +1,4 @@
-wner, address indexed newOwner);
-    event AdminAdded(address indexed admin);
+exed admin);
     event AdminRemoved(address indexed admin);
     event ContractPaused(address indexed by);
     event ContractUnpaused(address indexed by);
