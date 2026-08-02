@@ -1,20 +1,4 @@
 
-    function getSystemStatus() external view returns (
-        bool isPaused,
-        bool isEmergency,
-        uint256 updates,
-        uint256 adminsCount,
-        uint256 lastChange
-    ) {
-        return (paused, emergencyMode, totalUpdates, totalAdminsAdded, lastUpdated);
-    }
-
-    // Write Functions
-    function setAttribute(string memory newValue) 
-        external 
-        onlyAdminOrOwner 
-        whenNotPaused 
-        whenNotLocked 
         noEmergency 
         rateLimited 
     {
