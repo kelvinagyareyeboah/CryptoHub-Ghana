@@ -1,6 +1,4 @@
-e);
-    error InvalidAddress();
-    error IntegrityMismatch();
+smatch();
     error EmergencyActive();
     error LockDurationTooLong();
     error CooldownActive(uint256 nextAllowedTime);
