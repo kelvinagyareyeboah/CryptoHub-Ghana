@@ -1,7 +1,6 @@
 
         bool approved;
-        bool executed;
-    }
+        bo
 
     AdminProposal[] private adminProposals;
 
