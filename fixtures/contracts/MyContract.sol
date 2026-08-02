@@ -1,13 +1,4 @@
 
-                value: value,
-                valueHash: _attributeHash,
-                timestamp: block.timestamp,
-                updater: updater,
-                integrityVerified: true
-            })
-        );
-    }
-
     // View Functions
     function getAttribute() external view returns (string memory) {
         return _attribute;
