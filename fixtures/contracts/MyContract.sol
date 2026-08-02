@@ -1,14 +1,4 @@
 
-            end = history.length;
-        }
-
-        HistoryEntry[] memory page = new HistoryEntry[](end - offset);
-        for (uint256 i = offset; i < end; i++) {
-            page[i - offset] = history[i];
-        }
-        return page;
-    }
-
     function getSystemStatus() external view returns (
         bool isPaused,
         bool isEmergency,
