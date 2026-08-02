@@ -1,6 +1,4 @@
-.8.13;
 
-/**
  * MyContract v4.0 — Enterprise & Audit-Grade Solidity Contract
  *
  * Author: Kelvin
