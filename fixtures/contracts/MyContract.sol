@@ -1,5 +1,4 @@
-
-    event AttributeLockedEvent(uint256 until);
+256 until);
     event AttributeUnlockedEvent();
     event EmergencyModeEnabled(address indexed by);
     event EmergencyModeDisabled(address indexed by);
