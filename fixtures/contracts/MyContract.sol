@@ -1,6 +1,4 @@
-
-        uint256 timestam
-        bool integrityVerified;
+ified;
     }
 
     HistoryEntry[] private history;
