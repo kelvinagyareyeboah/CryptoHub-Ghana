@@ -1,6 +1,4 @@
-LDOWN = 1 hours
-    string private _attribute;
-    bytes32 private _attributeHash;
+teHash;
 
     address public owner;
     mapping(address => bool) public admins;
