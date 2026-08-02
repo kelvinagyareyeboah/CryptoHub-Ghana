@@ -1,9 +1,4 @@
 
-        if (block.timestamp < lastEmergencyAction + EMERGENCY_COOLDOWN) {
-            revert CooldownActive(lastEmergencyAction + EMERGENCY_COOLDOWN);
-        }
-        _;
-    }
 
     // Constructor
     constructor(string memory initialValue) {
