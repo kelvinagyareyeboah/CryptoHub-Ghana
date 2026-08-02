@@ -1,6 +1,4 @@
 
- * - Rate limiting
- * - Pausing & locking
  * - Historical tracking
  * - Integrity verification
  * - Emergency recovery patterns
