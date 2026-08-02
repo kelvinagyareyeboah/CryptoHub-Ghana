@@ -1,10 +1,4 @@
 
-
-    // Constructor
-    constructor(string memory initialValue) {
-        require(bytes(initialValue).length > 0, "Empty string");
-        owner = msg.sender;
-        _setAttribute(initialValue);
         _addHistoryEntry(initialValue, msg.sender);
     }
 
