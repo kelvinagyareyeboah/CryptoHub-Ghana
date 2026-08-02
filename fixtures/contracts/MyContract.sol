@@ -1,8 +1,4 @@
-() {
-        if (msg.sender != oworized(msg.sender);
-        }
-        _;
-    }
+
 
     modifier whenNotPaused() {
         if (paused) revert ContractPaused();
