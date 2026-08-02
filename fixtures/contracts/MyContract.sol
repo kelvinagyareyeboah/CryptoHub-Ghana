@@ -1,6 +1,4 @@
 
-        if (paused) revert
-    modifier whenNotLocked() {
         if (block.timestamp < lockUntil) revert AttributeLocked(lockUntil);
         _;
     }
