@@ -1,8 +1,5 @@
 
-        if (paused) revert ContractPaused();
-        _;
-    }
-
+        if (paused) revert
     modifier whenNotLocked() {
         if (block.timestamp < lockUntil) revert AttributeLocked(lockUntil);
         _;
