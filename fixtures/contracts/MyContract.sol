@@ -1,8 +1,4 @@
-
-    error Unauthoriz
-    error ContractPaused();
-    error AttributeLocked(uint256 until);
-    error UpdateTooFrequent(uint256 nextAllowedTime);
+e);
     error InvalidAddress();
     error IntegrityMismatch();
     error EmergencyActive();
