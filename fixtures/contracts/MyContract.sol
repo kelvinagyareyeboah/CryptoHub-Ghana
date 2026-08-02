@@ -1,18 +1,4 @@
-
-    // View Functions
-    function getAttribute() external view returns (string memory) {
-        return _attribute;
-    }
-
-    function getAttributeHash() external view returns (bytes32) {
-        return _attributeHash;
-    }
-
-    function verifyIntegrity() external view returns (bool) {
-        return _verify(_attribute, _attributeHash);
-    }
-
-    function getHistoryLength() external view returns (uint256) {
+returns (uint256) {
         return history.length;
     }
 
