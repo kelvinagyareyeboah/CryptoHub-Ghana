@@ -1,6 +1,4 @@
-ata
-    string publicstant CONTRACT_NAME = "MyContract";
-    string public constant CONTRACT_VERSION = "4.0.0";
+0.0";
 
     // Constants
     uint256 public constant MIN_UPDATE_INTERVAL = 30;
