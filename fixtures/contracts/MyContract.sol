@@ -1,11 +1,4 @@
-
-        _addHistoryEntry(initialValue, msg.sender);
-    }
-
-    // Internal Functions
-    function _setAttribute(string memory newValue) internal {
-        _attribute = newValue;
-        _attributeHash = keccak256(abi.encodePacked(newValue));
+s);
         lastUpdated = block.timestamp;
         lastUpdateAttempt = block.timestamp;
         totalUpdates++;
