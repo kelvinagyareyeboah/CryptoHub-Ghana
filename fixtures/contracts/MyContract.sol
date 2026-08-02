@@ -1,5 +1,4 @@
-
-    event EmergencyModeEnabled(address indexed by);
+);
     event EmergencyModeDisabled(address indexed by);
     event AdminProposalCreated(uint256 indexed id, address indexed admin);
     event AdminProposalApproved(uint256 indexed id);
