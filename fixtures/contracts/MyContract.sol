@@ -1,7 +1,4 @@
 
-        if (block.timestamp < lockUntil) revert AttributeLocked(lockUntil);
-        _;
-    }
 
     modifier rateLimited() {
         if (block.timestamp < lastUpdateAttempt + MIN_UPDATE_INTERVAL) {
