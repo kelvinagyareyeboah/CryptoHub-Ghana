@@ -1,10 +1,4 @@
-returns (uint256) {
-        return history.length;
-    }
 
-    function getHistory(uint256 offset, uint256 limit) external view returns (HistoryEntry[] memory) {
-        uint256 end = offset + limit;
-        if (end > history.length) {
             end = history.length;
         }
 
