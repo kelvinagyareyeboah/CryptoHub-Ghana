@@ -1,6 +1,3 @@
-orized(msg.sender);
-        _;
-    }
 
     modifier onlyAdminOrOwner() {
         if (msg.sender != owner && !admins[msg.sender]) {
