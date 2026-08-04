@@ -1,5 +1,4 @@
-
-    event NumberUpdated(address indexed executor, int256 oldValue, int256 newValue);
+address indexed executor, int256 oldValue, int256 newValue);
     event OperationExecuted(address indexed executor, Operation op, int256 input, int256 result);
     event OwnershipTransferred(address indexed oldOwner, address indexed newOwner);
     event Paused();
