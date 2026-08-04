@@ -1,7 +1,6 @@
 
     modifier nonReentrant() {
-        require(_locked == 0, "Reentrancy");
-        _locked = 1;
+        require(_locked == 0, "Reentrancy"
         _;
         _locked = 0;
     }
