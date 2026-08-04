@@ -1,5 +1,4 @@
-=====================
-    int256 private _storedNumber;
+ber;
     int256 private _minValue;
     int256 private _maxValue;
 
