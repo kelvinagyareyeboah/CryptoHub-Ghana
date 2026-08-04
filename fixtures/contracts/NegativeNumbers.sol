@@ -1,8 +1,6 @@
 ^0.8.19;
 
 /**
- * @title AdvancedNegativeNumbersV3
- * @author Kelvin
  * @notice Optimized, secure, production-ready contract for signed integer operations
  */
 contract AdvancedNegativeNumbersV3 {
