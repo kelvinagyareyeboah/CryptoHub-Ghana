@@ -1,5 +1,4 @@
-address indexed exeue, int256 newValue);
-    event OperationExecuted(address indexed executor, Operation op, int256 input, int256 result);
+xed executor, Operation op, int256 input, int256 result);
     event OwnershipTransferred(ad, address indexed newOwner);
     event Paused();
     event Unpaused();
