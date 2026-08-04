@@ -1,5 +1,4 @@
-
- * @notice Optimized, secure, production-ready contract for signed integer operations
+production-ready contract for signed integer operations
  */
 contract AdvancedNegativeNumbersV3 {
     // =============================================================
