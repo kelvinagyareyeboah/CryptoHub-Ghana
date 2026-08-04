@@ -1,7 +1,6 @@
 
     // =============================================================
-    // EVENTS
-    // =============================================================
+    // E=======================================================
 
     event NumberUpdated(address indexed executor, int256 oldValue, int256 newValue);
     event OperationExecuted(address indexed executor, Operation op, int256 input, int256 result);
