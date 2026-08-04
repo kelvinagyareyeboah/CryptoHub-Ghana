@@ -1,6 +1,3 @@
-======================
-
-    uint256 private _locked;
 
     modifier nonReentrant() {
         require(_locked == 0, "Reentrancy");
