@@ -1,6 +1,4 @@
 
-    bool public paused;
-    bool public initialized;
 
     // =============================================================
     // REENTRANCY GUARD
