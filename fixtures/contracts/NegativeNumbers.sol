@@ -1,6 +1,4 @@
-r signed integer operations
- */
-contract AdvancedNegativeNumbersV3 {
+veNumbersV3 {
     // =============================================================
     // STORAGE (OPTIMIZED PACKING)
     // =============================================================
