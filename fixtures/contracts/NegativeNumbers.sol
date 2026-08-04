@@ -1,5 +1,4 @@
-
-    address public pendingOwner;
+er;
 
     uint128 public updateCount;
     uint128 public operationCount;
