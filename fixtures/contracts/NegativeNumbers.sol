@@ -1,7 +1,4 @@
 
-        SUBTRACT,
-        MULTIPLY,
-        DIVIDE,
         ABS,
         NEGATE,
         POWER,
