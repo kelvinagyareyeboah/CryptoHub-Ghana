@@ -1,8 +1,5 @@
 
-        ABS,
-        NEGATE,
-        POWER,
-        MIN,
+      
         MAX
     }
 
