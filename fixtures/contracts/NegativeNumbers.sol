@@ -1,7 +1,4 @@
-Value;
-    int256 private _maxValue;
 
-    address public owner;
     address public pendingOwner;
 
     uint128 public updateCount;
