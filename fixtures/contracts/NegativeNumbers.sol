@@ -1,5 +1,4 @@
-ber;
-    int256 private _minValue;
+Value;
     int256 private _maxValue;
 
     address public owner;
