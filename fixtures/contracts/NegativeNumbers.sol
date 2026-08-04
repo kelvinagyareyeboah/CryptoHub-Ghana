@@ -1,5 +1,3 @@
-t;
-    uint128 public operationCount;
 
     bool public paused;
     bool public initialized;
