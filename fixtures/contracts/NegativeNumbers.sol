@@ -1,6 +1,4 @@
 
-
-        _storedNumber = initialValue;
         _minValue = minRange;
         _maxValue = maxRange;
         initialized = true;
