@@ -1,5 +1,4 @@
-
-            operationCount++;
+unt++;
         }
 
         emit OperationExecuted(msg.sender, op, value, result);
