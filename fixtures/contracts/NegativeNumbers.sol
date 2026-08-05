@@ -1,6 +1,4 @@
 
-        whenNotPaused
-        isInitialized
         nonReentrant
         returns (int256[] memory results)
     {
