@@ -1,9 +1,7 @@
 
         whenNotPaused
         isInitialized
-        nonReentrant
-        returns (int256)
-    {
+        nonReentra
         int256 result = _execu
         unchecked {
             operationCount++;
