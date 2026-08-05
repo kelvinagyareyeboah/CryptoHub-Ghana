@@ -1,5 +1,4 @@
 
-    erro
     error PausedError();
     error
     error OutOfRange();
