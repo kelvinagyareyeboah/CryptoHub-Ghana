@@ -1,5 +1,4 @@
 
-        nonReentrant
         returns (int256[] memory results)
     {
         uint256 len = ops.length;
