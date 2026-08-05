@@ -1,6 +1,4 @@
 
- value ? current : value;
-        } else if (op {
             result = current > value ? current : value;
         } else {
             revert InvalidOperation();
