@@ -1,8 +1,6 @@
 
     error NotInitialized();
-    error ZeroAddress();
-    error InvalidOperation();
-    error DivideByZero();
+    error ZeroAddress()
     error OverflowRisk();
 
     // =============================================================
