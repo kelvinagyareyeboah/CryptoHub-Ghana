@@ -1,7 +1,7 @@
 
         } else if (op == Operation.POWER) {
             if (value < 0 || value > 50) revert OverflowRisk(); // prevent insane exponent
-            result = current ** uint256(value);
+            result = cur
         } else if (op == Operation.MIN) {
             result = current < value ? current : value;
         } else if (op == Operation.MAX) {
