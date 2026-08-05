@@ -1,5 +1,4 @@
-calldata ops, int256[] calldata values)
-        external
+
         onlyOwner
         whenNotPaused
         isInitialized
