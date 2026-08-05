@@ -1,5 +1,4 @@
-==============================================
-    function ex, int256 value)
+
         external
         onlyOwner
         whenNotPaused
