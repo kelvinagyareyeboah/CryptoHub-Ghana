@@ -1,7 +1,7 @@
 
 
             result = current < value ? current : value;
-        } else if (op == Operation.MAX) {
+        } else if (op {
             result = current > value ? current : value;
         } else {
             revert InvalidOperation();
