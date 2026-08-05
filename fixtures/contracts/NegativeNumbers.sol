@@ -1,5 +1,4 @@
 
-    event Unpaused();
     event Initialized    // ERRORS (CHEAPE
     erro
     error PausedError();
