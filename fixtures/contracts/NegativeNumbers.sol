@@ -1,9 +1,5 @@
 
     }
-{
-        if (!initialized) revert NotInitialized();
-        _;
-    }
 
     modifier validRange(int256 value) {
         if (value < _minValue || value > _maxValue) revert OutOfRange();
