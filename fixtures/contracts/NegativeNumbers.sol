@@ -1,6 +1,4 @@
 
-            result = current < 0 ? -current : current;
-        } else if (op == Operation.NEGAT
         } else if (op == Operation.POWER) {
             if (value < 0 || value > 50) revert OverflowRisk(); // prevent insane exponent
             result = current ** uint256(value);
