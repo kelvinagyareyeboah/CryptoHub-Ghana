@@ -1,5 +1,4 @@
-;
-        _maxValue = maxRange;
+
         initialized = true;
 
         emit Initialized(initialValue);
