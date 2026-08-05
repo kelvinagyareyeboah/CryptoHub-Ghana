@@ -1,5 +1,4 @@
 
-    event Initialized    // ERRORS (CHEAPE
     erro
     error PausedError();
     error InvalidRange();
