@@ -1,5 +1,4 @@
-
-    function _execute(Operation op, int256 value) internal returns (int256 result) {
+56 value) internal returns (int256 result) {
         int256 current = _storedNumber;
 
         if (
