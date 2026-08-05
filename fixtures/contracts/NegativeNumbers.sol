@@ -1,6 +1,3 @@
-/ =============================================================
-
-    modifier onlyOwner() {
 
     modifier whenNotPaused() {
         if (paused) revert PausedError();
