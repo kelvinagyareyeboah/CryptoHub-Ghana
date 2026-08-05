@@ -1,9 +1,4 @@
 
-     
-
-        unchecked {
-            updateCount++;
-        }
 
         emit NumberUpdated(msg.sender, old, newValue);
     }
