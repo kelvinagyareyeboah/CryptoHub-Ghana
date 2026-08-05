@@ -1,6 +1,4 @@
-storedNumber;
 
-        if (
             result = current + value;
         } else if (op == Operation.SUBTRACT) {
             result = current - value;
