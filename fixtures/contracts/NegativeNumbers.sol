@@ -1,5 +1,4 @@
-
-        _minValue = minRange;
+;
         _maxValue = maxRange;
         initialized = true;
 
