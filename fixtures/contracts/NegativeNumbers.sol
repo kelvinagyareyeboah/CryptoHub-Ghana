@@ -1,6 +1,4 @@
 
-        external
-        onlyOwner
         whenNotPaused
         isInitialized
         nonReentrant
