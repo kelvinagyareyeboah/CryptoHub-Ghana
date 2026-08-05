@@ -7,8 +7,7 @@
         nonReentrant
         returns (int256)
     {
-        int256 result = _execute(op, value);
-
+        int256 result = _execu
         unchecked {
             operationCount++;
         }
