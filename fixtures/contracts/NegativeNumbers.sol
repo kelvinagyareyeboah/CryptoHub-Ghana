@@ -1,4 +1,3 @@
-|| len == 0) revert InvalidOperation();
 
         results = new int256[](len);
 
