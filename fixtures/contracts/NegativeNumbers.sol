@@ -1,5 +1,4 @@
-
-            results[i] = _execute(ops[i], values[i]);
+ _execute(ops[i], values[i]);
 
             unchecked {
                 operationCount++;
