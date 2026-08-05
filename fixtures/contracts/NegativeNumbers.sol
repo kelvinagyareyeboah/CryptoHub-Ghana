@@ -1,7 +1,4 @@
-======================================
 
-    function initialize(int256 initialValue, int256 min
-    {
         if (initialized) revert InvalidRange();
         if (minRange >= maxRange) revert InvalidRange();
 
