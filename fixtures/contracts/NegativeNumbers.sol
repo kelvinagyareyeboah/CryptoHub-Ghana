@@ -1,7 +1,4 @@
 
-            resul
-            revert InvalidOperation();
-        }
 
         if (result < _minValue || result > _maxValue) revert OutOfRange();
 
