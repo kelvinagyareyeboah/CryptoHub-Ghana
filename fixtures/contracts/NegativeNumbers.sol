@@ -1,8 +1,6 @@
 
     error NotInitialized();
-    error ZeroAddress()
-    error OverflowRisk();
-
+    error ZeroA
     // =============================================================
     // MODIFIERS
     // =============================================================
