@@ -1,5 +1,4 @@
 
-        } else rt DivideByZero();
             resu
         } else if (op == Operation.ABS) {
             result = current < 0 ? -current : current;
