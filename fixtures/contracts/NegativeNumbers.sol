@@ -1,6 +1,4 @@
 
-        results = new int256[](len);
-
         for (uint256 i; i < len; ) {
             results[i] = _execute(ops[i], values[i]);
 
