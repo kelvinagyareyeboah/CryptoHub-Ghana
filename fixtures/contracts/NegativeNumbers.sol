@@ -1,6 +1,4 @@
 
-    error PausedError();
-    error
     error OutOfRange();
     error NotInitialized();
     error ZeroAddress();
