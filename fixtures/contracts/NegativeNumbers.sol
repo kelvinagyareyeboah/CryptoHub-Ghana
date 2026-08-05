@@ -1,6 +1,5 @@
 
-            result = current > value ? current : value;
-        } else {
+            resul
             revert InvalidOperation();
         }
 
