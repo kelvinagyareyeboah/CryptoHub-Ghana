@@ -1,8 +1,4 @@
-
-    }
-
-    // =============================================================
-    // BATCH EXECUTION (SAFE + GAS OPTIMIZED)
+IZED)
     // =============================================================
 
     function batchExecute(Operation[] calldata ops, int256[] calldata values)
