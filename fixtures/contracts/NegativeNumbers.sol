@@ -1,6 +1,4 @@
-t);
-    event OwnershipTransferred(dexed );
-    event Paused();
+
     event Unpaused();
     event Initialized(int256 value);
 
