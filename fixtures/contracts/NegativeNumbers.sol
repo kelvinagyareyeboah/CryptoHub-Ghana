@@ -1,5 +1,4 @@
 
-        } else if (op == Operation.MULTIPLY) {
             result = current * value;
         } else if (op == Operation.DIVIDE) {
             if (value == 0) revert DivideByZero();
