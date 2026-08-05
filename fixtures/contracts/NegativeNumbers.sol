@@ -1,9 +1,6 @@
 
     event Unpaused();
-    event Initialized(int256 value);
-
-    // =============================================================
-    // ERRORS (CHEAPE
+    event Initialized    // ERRORS (CHEAPE
     error Unauthorized();
     error PausedError();
     error InvalidRange();
