@@ -5,8 +5,7 @@
     // INITIALIZATION
     // =============================================================
 
-    function initialize(int256 initialValue, int256 minRange, int256 maxRange)
-        external
+    function initialize(int256 initialValue, int256 minRange, int256 m
         onlyOwner
     {
         if (initialized) revert InvalidRange();
