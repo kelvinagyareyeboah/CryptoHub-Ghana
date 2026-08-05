@@ -1,5 +1,5 @@
 xed executor, Operation op, int256 input, int256 result);
-    event OwnershipTransferred(dexed newOwner);
+    event OwnershipTransferred(dexed );
     event Paused();
     event Unpaused();
     event Initialized(int256 value);
