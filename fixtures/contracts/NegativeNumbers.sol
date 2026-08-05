@@ -3,9 +3,7 @@
     event Initialized(int256 value);
 
     // =============================================================
-    // ERRORS (CHEAPER THAN STRINGS)
-    // =============================================================
-
+    // ERRORS (CHEAPE
     error Unauthorized();
     error PausedError();
     error InvalidRange();
