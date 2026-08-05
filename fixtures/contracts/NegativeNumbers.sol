@@ -2,8 +2,7 @@
 
         if (result < _minValue || result > _maxValue) revert OutOfRange();
 
-        _update(result);
-    }
+        _
 
     function _update(int256 newValue) internal {
         int256 ol
