@@ -1,6 +1,4 @@
 
-        if (paused) revert PausedError();
-        _;
     }
 
     modifier isInitialized() {
