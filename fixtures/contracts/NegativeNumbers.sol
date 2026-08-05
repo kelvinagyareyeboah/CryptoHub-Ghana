@@ -1,4 +1,4 @@
- revert InvalidRange();
+
 
         _storedNumber = initialValue;
         _minValue = minRange;
