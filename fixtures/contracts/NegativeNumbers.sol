@@ -1,7 +1,4 @@
-IZED)
-    // =============================================================
-
-    function batchExecute(Operation[] calldata ops, int256[] calldata values)
+calldata ops, int256[] calldata values)
         external
         onlyOwner
         whenNotPaused
