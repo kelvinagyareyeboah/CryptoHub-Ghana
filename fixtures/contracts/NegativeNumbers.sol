@@ -1,5 +1,4 @@
-
-        if (len != values.length || len == 0) revert InvalidOperation();
+|| len == 0) revert InvalidOperation();
 
         results = new int256[](len);
 
