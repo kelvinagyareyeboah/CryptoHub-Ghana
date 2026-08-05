@@ -1,5 +1,4 @@
-56 value) internal returns (int256 result) {
-        int256 current = _storedNumber;
+storedNumber;
 
         if (
             result = current + value;
