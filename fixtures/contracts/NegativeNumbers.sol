@@ -1,5 +1,4 @@
-================
-    // INITIALIZATION
+
     // =============================================================
 
     function initialize(int256 initialValue, int256 min
