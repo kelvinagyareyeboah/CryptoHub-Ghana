@@ -1,7 +1,7 @@
 
     erro
     error PausedError();
-    error InvalidRange();
+    error
     error OutOfRange();
     error NotInitialized();
     error ZeroAddress();
