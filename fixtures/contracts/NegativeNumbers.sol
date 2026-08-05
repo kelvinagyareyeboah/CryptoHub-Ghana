@@ -1,8 +1,4 @@
  _execute(ops[i], values[i]);
-
-            unchecked {
-                operationCount++;
-                ++i;
             }
         }
     }
