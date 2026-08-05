@@ -1,5 +1,4 @@
 
-    error OutOfRange();
     error NotInitialized();
     error ZeroAddress();
     error InvalidOperation();
