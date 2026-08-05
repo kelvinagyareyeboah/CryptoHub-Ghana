@@ -1,5 +1,4 @@
-
-        if (minRange >= maxRange) revert InvalidRange();
+ revert InvalidRange();
 
         _storedNumber = initialValue;
         _minValue = minRange;
