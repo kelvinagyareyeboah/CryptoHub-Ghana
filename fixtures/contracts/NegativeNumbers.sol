@@ -6,7 +6,7 @@
     }
 
     function _update(int256 newValue) internal {
-        int256 old = _storedNumber;
+        int256 ol
         _storedNumber = newValue;
 
         unchecked {
