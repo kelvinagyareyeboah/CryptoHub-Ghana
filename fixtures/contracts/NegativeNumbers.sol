@@ -1,9 +1,4 @@
 
-        initialized = true;
-
-        emit Initialized(initialValue);
-    }
-
     // =============================================================
     // CORE INTERNAL EXECUTION (NO EXTERNAL CALLS)
     // =============================================================
