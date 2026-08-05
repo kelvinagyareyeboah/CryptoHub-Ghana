@@ -2,7 +2,7 @@
     function _execute(Operation op, int256 value) internal returns (int256 result) {
         int256 current = _storedNumber;
 
-        if (op == Operation.ADD) {
+        if (
             result = current + value;
         } else if (op == Operation.SUBTRACT) {
             result = current - value;
