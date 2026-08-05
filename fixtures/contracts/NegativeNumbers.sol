@@ -1,6 +1,3 @@
-======================
-    // CORE INTERNAL EXECUTION (NO EXTERNAL CALLS)
-    // =============================================================
 
     function _execute(Operation op, int256 value) internal returns (int256 result) {
         int256 current = _storedNumber;
