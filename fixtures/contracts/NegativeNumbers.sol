@@ -1,8 +1,4 @@
-unt++;
-        }
 
-        emit OperationExecuted(msg.sender, op, value, result);
-        return result;
     }
 
     // =============================================================
