@@ -11,8 +11,7 @@
     // =============================================================
     // PUBLIC EXECUTION
     // =============================================================
-
-    function execute(Operation op, int256 value)
+    function ex, int256 value)
         external
         onlyOwner
         whenNotPaused
