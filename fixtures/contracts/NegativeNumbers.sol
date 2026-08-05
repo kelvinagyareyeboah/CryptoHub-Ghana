@@ -1,7 +1,6 @@
 
     }
-
-    modifier isInitialized() {
+{
         if (!initialized) revert NotInitialized();
         _;
     }
