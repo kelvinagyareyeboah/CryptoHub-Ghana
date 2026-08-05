@@ -1,5 +1,4 @@
 
-        onlyOwner
         whenNotPaused
         isInitialized
         nonReentrant
