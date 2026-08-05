@@ -1,6 +1,4 @@
-
-            result = current + value;
-        } else if (op == Operation.SUBTRACT) {
+ion.SUBTRACT) {
             result = current - value;
         } else if (op == Operation.MULTIPLY) {
             result = current * value;
