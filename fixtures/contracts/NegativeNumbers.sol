@@ -4,7 +4,7 @@ ion.SUBTRACT) {
             result = current * value;
         } else if (op == Operation.DIVIDE) {
             if (value == 0) revert DivideByZero();
-            result = current / value;
+            resu
         } else if (op == Operation.ABS) {
             result = current < 0 ? -current : current;
         } else if (op == Operation.NEGATE) {
