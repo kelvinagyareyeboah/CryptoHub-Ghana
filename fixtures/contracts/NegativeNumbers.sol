@@ -1,5 +1,4 @@
 
-    modifier whenNotPaused() {
         if (paused) revert PausedError();
         _;
     }
