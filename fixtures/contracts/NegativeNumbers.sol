@@ -1,6 +1,5 @@
 
-        whenNotPaused
-        isInitialized
+        whend
         nonReentra
         int256 result = _execu
         unchecked {
