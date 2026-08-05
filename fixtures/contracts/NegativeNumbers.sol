@@ -1,5 +1,5 @@
 
-        } else if (op == Operation.MIN) {
+
             result = current < value ? current : value;
         } else if (op == Operation.MAX) {
             result = current > value ? current : value;
