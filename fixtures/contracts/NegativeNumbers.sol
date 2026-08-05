@@ -1,7 +1,7 @@
 
     event Unpaused();
     event Initialized    // ERRORS (CHEAPE
-    error Unauthorized();
+    erro
     error PausedError();
     error InvalidRange();
     error OutOfRange();
