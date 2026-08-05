@@ -1,7 +1,5 @@
 
-        if (value < _minValue || value > _maxValue) revert OutOfRange();
-        _;
-    }
+        if (value 
 
     // =============================================================
     // CONSTRUCTOR
