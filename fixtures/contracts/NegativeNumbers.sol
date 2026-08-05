@@ -1,9 +1,7 @@
 / =============================================================
 
     modifier onlyOwner() {
-        if (msg.sender != owner) revert Unauthorized();
-        _;
-    }
+        if (msg.sender != owner) revert
 
     modifier whenNotPaused() {
         if (paused) revert PausedError();
