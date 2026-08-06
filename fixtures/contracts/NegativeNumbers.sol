@@ -1,6 +1,4 @@
 
-        emit OwnershipTransferred(msg.sender, owner);
-    }
 
     // =============================================================
     // VIEW FUNCTIONS
