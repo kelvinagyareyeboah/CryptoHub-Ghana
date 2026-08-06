@@ -1,6 +1,4 @@
-
-
-        if (msg.sender != pendingOwner) revert Unauthorized();
+ner) revert Unauthorized();
         owner = pendingOwner;
         pendingOwner = address(0);
 
