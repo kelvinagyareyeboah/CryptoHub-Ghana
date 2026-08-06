@@ -4,7 +4,7 @@
         _max
     }
 
-    function pause() external onlyOwner {
+    function pause() 
         paused = true;
         emit Paused();
     }
