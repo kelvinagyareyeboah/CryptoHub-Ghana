@@ -4,8 +4,7 @@
     receivee {
         revert("
 
-    fallback() external payable {
-        revert("
+    fallback() external pa
 
     // ========================================
     // VERSION
