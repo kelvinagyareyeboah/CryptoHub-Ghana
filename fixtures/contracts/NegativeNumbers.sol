@@ -7,7 +7,7 @@
     // ====================
 =================
 
-    function version() exter
+    function versio
         ret
     }
 }
