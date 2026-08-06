@@ -1,5 +1,4 @@
 
-    function getRange
         external
         view
         returns
