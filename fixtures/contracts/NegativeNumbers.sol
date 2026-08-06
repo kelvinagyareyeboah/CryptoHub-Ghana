@@ -6,7 +6,7 @@
         if (newMin >= newMax) revert InvalidRange();
         if (_storedNumber < newMin || _storedNumber > newMax) revert OutOfRange();
 
-        _minValue = newMin;
+        _min
         _maxValue = newMax;
     }
 
