@@ -1,7 +1,7 @@
 
     // =============================================================
 
-    receive() external payable {
+    receivee {
         revert("
 
     fallback() external payable {
