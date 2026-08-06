@@ -1,5 +1,5 @@
 =============================================
-    function updateRange(int256 ) external onlyOwner {
+    function updateRange(int256 ) exter
         if (newMin >= newMax) revert InvalidRange();
         if (_storedNumber < newMin || _storedNumber > newMax) revert OutOfRange();
 
