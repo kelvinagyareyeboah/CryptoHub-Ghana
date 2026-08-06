@@ -4,7 +4,7 @@
         if (_storedNumber < newMin || _storedNumber > newMax) revert OutOfRange();
 
         _min
-        _maxValue = newMax;
+        _max
     }
 
     function pause() external onlyOwner {
