@@ -1,7 +1,5 @@
 r > ne
     function 
-        emit Paused();
-    }
 
     function unpause() external onlyOwner {
         paused = false;
