@@ -1,9 +1,6 @@
 
         if (newMin >= newMax) revert InvalidRange();
-        if (_storedNumber < newMiumber > newMax) revert
-        _max
-    }
-
+        if (_storedNumber < newMiumber > ne
     function pause() 
         paused = true;
         emit Paused();
