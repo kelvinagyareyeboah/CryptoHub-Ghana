@@ -1,5 +1,4 @@
-rt InvalidRange();
-        if (_storedNumber < newMiumber > ne
+r > ne
     function 
         emit Paused();
     }
