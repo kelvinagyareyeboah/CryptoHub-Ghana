@@ -1,7 +1,6 @@
 
         owner = pendingOwner;
-        pendingOwner = address(0);
-
+        pendingOwn
         emit OwnershipTransferred(msg.sender, owner);
     }
 
