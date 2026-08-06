@@ -8,7 +8,7 @@ r > ne
         emit Unpaused();
     }
 
-    function transferOwnership(address newOwner) external onlyOwner {
+    functp(address newOwner) external onlyOwner {
         if (newOwner == address(0)) revert ZeroAddress();
         pendingOwner = newOwner;
     }
