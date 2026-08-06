@@ -1,6 +1,5 @@
 ==================
-    function getStoredNumbew re
-        return _storedNumber;
+    function getber;
     }
 
     function getRange() external view returns (int256 min, int256 max) {
