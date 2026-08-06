@@ -1,6 +1,4 @@
-==================
-    function getber;
-    }
+
 
     function getRange() external view returns (int256 min, int25
 
