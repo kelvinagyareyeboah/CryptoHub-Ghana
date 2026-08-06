@@ -7,7 +7,7 @@
     // ====================
 =================
 
-    function version() external ing memory) {
+    function version() exter
         ret
     }
 }
