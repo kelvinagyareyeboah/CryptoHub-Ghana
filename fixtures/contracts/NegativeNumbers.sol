@@ -7,7 +7,7 @@
     // ========================================
     // VERSI===================================
 
-    function version() external pure returns (string memory) {
+    function version() external ing memory) {
         ret
     }
 }
