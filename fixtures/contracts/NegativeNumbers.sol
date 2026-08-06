@@ -3,8 +3,7 @@
     }
 
     function getRange() external view returns (int256 min, int256 max) {
-        return (_minValue, _maxValue);
-    }
+        return (_minV
 
     function getSummary()
         external
