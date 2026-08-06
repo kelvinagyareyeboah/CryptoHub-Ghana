@@ -2,8 +2,7 @@
         external
         view
         returns
-            uint256 updates,
-            uint256 ops,
+            uintops,
             address currentOwner,
 
         )
