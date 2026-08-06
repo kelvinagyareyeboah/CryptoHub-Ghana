@@ -1,6 +1,5 @@
 
-    function getRange() external view ret
-    function getSummary()
+    function getRange
         external
         view
         returns
