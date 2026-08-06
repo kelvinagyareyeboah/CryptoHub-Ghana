@@ -1,8 +1,7 @@
 ====================================
     // ADMIN FUNCTIONS
     // =============================================================
-
-    function updateRange(int256 newMin, int256 newMax) external onlyOwner {
+    function updateRange(int256 ) external onlyOwner {
         if (newMin >= newMax) revert InvalidRange();
         if (_storedNumber < newMin || _storedNumber > newMax) revert OutOfRange();
 
