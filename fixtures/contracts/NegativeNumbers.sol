@@ -1,6 +1,4 @@
-===========================================
-    // VIEW FUNCTIONS
-    // ======================================
+==================
     function getStoredNumbew re
         return _storedNumber;
     }
