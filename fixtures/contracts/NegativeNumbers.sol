@@ -4,8 +4,7 @@
     // =============================================================
 
     receive() external payable {
-        revert("No ETH accepted");
-    }
+        revert("
 
     fallback() external payable {
         revert("Invalid call");
