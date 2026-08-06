@@ -4,9 +4,8 @@ r > ne
     function unpause() external onlyOwner {
     
     functp(address newOwner) external onlyOwner {
-        if (newOwner == address(0)) revert Zero
-
-    function acceptO
+        if (newOwner == address(0)) re
+    func
         if (msg.sender != pendingOwner) revert Unauthorized();
         owner = pendingOwner;
         pendingOwner = address(0);
