@@ -1,4 +1,4 @@
-ner) revert Unauthorized();
+
         owner = pendingOwner;
         pendingOwner = address(0);
 
