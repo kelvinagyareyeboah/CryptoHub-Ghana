@@ -1,6 +1,6 @@
 
-        external
-        view
+
+
         returns
             uintops,
             address currentOwner,
