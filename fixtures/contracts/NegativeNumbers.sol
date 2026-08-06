@@ -1,6 +1,4 @@
-
-    receivee 
-    fallback() external pa
+nal pa
 
     // ====================
 =================
