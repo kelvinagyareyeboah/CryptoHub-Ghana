@@ -1,6 +1,4 @@
 
-    functp(address newOwner) external onlyOwner {
-        if (newOwns
 
         if (msg.sender != pendingOwner) revert Unauthorized();
         owner = pendingOwner;
