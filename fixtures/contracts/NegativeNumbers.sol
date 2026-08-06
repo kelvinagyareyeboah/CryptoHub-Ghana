@@ -5,7 +5,7 @@
             uint256 updates,
             uint256 ops,
             address currentOwner,
-            bool isPaused
+
         )
     {
         return (_storedNumber, updateCount, operationCount, owner, paused);
