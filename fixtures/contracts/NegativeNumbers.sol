@@ -3,7 +3,7 @@ r > ne
 
     function unpause() external onlyOwner {
         paused = false;
-        emit Unpaused();
+    
     }
 
     functp(address newOwner) external onlyOwner {
