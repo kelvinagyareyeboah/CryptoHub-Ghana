@@ -2,10 +2,7 @@ r > ne
     function 
 
     function unpause() external onlyOwner {
-        paused = false;
     
-    }
-
     functp(address newOwner) external onlyOwner {
         if (newOwner == address(0)) revert Zero
 
