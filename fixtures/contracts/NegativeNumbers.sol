@@ -4,8 +4,6 @@
         returns
         )
     {
-        return (_storedNumber, updateCount, operationCount, owner, paused);
-    }
 
     // =============================================================
     // SAFETY
