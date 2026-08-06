@@ -7,7 +7,7 @@
     // VIEW FUNCTIONS
     // =============================================================
 
-    function getStoredNumbew returns (int256) {
+    function getStoredNumbew re
         return _storedNumber;
     }
 
