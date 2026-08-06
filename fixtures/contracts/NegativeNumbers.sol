@@ -5,8 +5,7 @@
         revert("
 
     fallback() external payable {
-        revert("Invalid call");
-    }
+        revert("
 
     // =============================================================
     // VERSION
