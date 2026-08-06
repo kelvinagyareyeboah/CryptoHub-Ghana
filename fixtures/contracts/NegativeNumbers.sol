@@ -1,5 +1,4 @@
-
-        if (newMin >= newMax) revert InvalidRange();
+rt InvalidRange();
         if (_storedNumber < newMiumber > ne
     function pause() 
         paused = true;
