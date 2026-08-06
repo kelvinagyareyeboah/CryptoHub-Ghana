@@ -1,6 +1,6 @@
 
         if (newMin >= newMax) revert InvalidRange();
-        if (_storedNumber < newMin || _storedNumber > newMax) revert
+        if (_storedNumber < newMiumber > newMax) revert
         _max
     }
 
