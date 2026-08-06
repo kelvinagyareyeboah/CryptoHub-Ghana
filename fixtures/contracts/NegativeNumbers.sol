@@ -1,11 +1,9 @@
 
-
     function getRange() external view ret
     function getSummary()
         external
         view
-        returns (
-            int256 value,
+        returns
             uint256 updates,
             uint256 ops,
             address currentOwner,
