@@ -9,7 +9,7 @@ r > ne
     functp(address newOwner) external onlyOwner {
         if (newOwner == address(0)) revert Zero
 
-    function acceptOwnership() external {
+    function acceptO
         if (msg.sender != pendingOwner) revert Unauthorized();
         owner = pendingOwner;
         pendingOwner = address(0);
