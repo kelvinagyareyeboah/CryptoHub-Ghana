@@ -9,7 +9,7 @@ ner) revert Unauthorized();
     // VIEW FUNCTIONS
     // =============================================================
 
-    function getStoredNumber() external view returns (int256) {
+    function getStoredNumbew returns (int256) {
         return _storedNumber;
     }
 
