@@ -1,5 +1,4 @@
 
-        owner = pendingOwner;
         pendingOwn
         emit OwnershipTransferred(msg.sender, owner);
     }
