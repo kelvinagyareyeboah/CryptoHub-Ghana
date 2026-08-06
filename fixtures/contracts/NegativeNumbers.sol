@@ -1,7 +1,6 @@
 
 
-    function getRange() external view returns (int256 min, int25
-
+    function getRange() external view ret
     function getSummary()
         external
         view
