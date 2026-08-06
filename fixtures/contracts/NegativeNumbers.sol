@@ -2,9 +2,6 @@
 
 
         returns
-            uintops,
-            address currentOwner,
-
         )
     {
         return (_storedNumber, updateCount, operationCount, owner, paused);
