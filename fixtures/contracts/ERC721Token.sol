@@ -1,6 +1,5 @@
 
-        string memory baseURI_,
-        string memory unrevealedURI_,
+
         uint256 maxSupply_,
         uint256 maxPerAddress_,
         uint256 mintPrice_,
