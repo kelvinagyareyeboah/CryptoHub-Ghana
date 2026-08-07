@@ -1,6 +1,5 @@
 56 quantity);
-    event PhaseChanged(MintPhase phase);
-    event BaseURISet(string uri);
+    event PhaseChanged(Mini);
     event Revealed();
     event Withdrawn(address indexed to, uint256 amount);
 
