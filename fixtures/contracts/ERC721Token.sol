@@ -1,6 +1,4 @@
-
-    // ============================================================
-    uint256 public totalMinted;
+totalMinted;
     uint256 public immutable maxSupply;
     uint256 public
 
