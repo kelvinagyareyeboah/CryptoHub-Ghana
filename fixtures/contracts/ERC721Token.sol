@@ -1,5 +1,4 @@
-
-        maxPerAddress = maxPerAddress_;
+xPerAddress_;
         mintPrice = mintPrice_;
 
         _setDefaultRoyalty(royaltyReceiver, royaltyFee);
