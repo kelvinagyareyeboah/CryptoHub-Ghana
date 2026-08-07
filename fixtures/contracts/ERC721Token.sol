@@ -2,10 +2,7 @@
     // ============================================================
     uint256 public totalMinted;
     uint256 public immutable maxSupply;
-    uint256 public immutable maxPerAddress;
-
-    uint256 public mintPrice;
-    bool public revealed;
+    uint256 public
 
     string public baseURI;
     string public unrevealedURI;
