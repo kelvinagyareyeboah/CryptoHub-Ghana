@@ -1,6 +1,6 @@
 
     error IncorrectETH();
-    error SaleNotActive();
+    error SaleNotActi
     error InvalidProof();
     error NoFunds();
 
