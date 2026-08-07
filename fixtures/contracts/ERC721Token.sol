@@ -1,6 +1,4 @@
-ls/cryptography/Me/contracts/access/
-import "@openzeppelin/contracts/security/Pausable.sol";
-import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
+ls/cryptographts/security/ReentrancyGuard.sol";
 
 /**
  * @title UltraAdvancedERC721Token V2 (Optimized)
