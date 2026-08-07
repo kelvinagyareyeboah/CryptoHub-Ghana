@@ -1,9 +1,6 @@
 totalMinted;
     uint256 public immutable maxSupply;
-    uint256 public
-
-    string public baseURI;
-    string public unrevealedURI;
+    uint256 publURI;
 
     MintPhase public currentPhase;
 
