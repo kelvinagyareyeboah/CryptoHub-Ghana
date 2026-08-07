@@ -1,7 +1,4 @@
-MerkleRoot;
-
-    mapping(address => uint256) public minted;
-    mapping(address => bool) public approvedMinters;
+MerkleRoot;pprovedMinters;
 
     // ============================================================
     //  EVENTS
