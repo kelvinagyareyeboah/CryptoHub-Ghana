@@ -1,7 +1,5 @@
 
- * @title 
- * @notice Production-grade NFT contract
- */
+ * @
 contract UltraAdvancedERC721Token is
     ERC721Enumerable,
     ERC2981,
