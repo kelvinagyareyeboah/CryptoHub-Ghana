@@ -1,6 +1,4 @@
-s
 
-        uint96 royaltyFee
     ) ERC721(name_, symbol_) {
         baseURI = baseURI_;
         unrevealedURI = unrevealedURI_;
