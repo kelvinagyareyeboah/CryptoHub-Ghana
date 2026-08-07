@@ -1,5 +1,4 @@
 
-        string memory name_,
         string memory baseURI_,
         string memory unrevealedURI_,
         uint256 maxSupply_,
