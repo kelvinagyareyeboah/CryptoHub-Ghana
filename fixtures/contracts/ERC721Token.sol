@@ -1,7 +1,4 @@
 
- * @
-contract UltraAdvanc
-    ERle,
     Pausable,
     ReentrancyGuard
 {
