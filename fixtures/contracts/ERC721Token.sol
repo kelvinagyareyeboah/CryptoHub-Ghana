@@ -1,7 +1,4 @@
-rd
-{
-    // ============================================================
-    //  ERRORS (Gas Efficient)
+rdS (Gas Efficient)
     // ============================================================
     error NotAuthorized();
     error MaxSupplyExceeded();
