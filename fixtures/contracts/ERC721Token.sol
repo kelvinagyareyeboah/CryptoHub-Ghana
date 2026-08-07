@@ -1,8 +1,5 @@
+s
 
-
-        uint256 maxSupplys_,
-        uint256 mintPrice_,
-        address royaltyReceiver,
         uint96 royaltyFee
     ) ERC721(name_, symbol_) {
         baseURI = baseURI_;
