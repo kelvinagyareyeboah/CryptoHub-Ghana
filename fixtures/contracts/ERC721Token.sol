@@ -2,10 +2,7 @@
     event PhaseChanged(Mini);
     event Revealed();
     event Withdrawn(address indexed to, uint256 amount);
-
-    // ============================================================
-    //  CONSTRUCTOR
-    // ============================================================
+==========================================
     constructor(
         string memory name_,
         string memory symbol_,
