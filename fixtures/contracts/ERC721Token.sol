@@ -1,8 +1,6 @@
 rdS (Gas Efficient)
-    // ============================================================
-    error NotAuthorized();
-    error MaxSupplyExceeded();
-    error MintLimitExceeded();
+    // =============
+
     error IncorrectETH();
     error SaleNotActive();
     error InvalidProof();
