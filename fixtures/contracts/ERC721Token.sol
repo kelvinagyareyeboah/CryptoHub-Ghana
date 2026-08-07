@@ -1,7 +1,6 @@
 
     // ============================================================
-    modifier onlyMinter() {
-        if (msg.sender != owner() && !approvedMinters[msg.sender]) {
+    modifier onlyMinter()ner() && !approvedMinters[msg.sender]) {
             revert NotAuthorized();
         }
         _;
