@@ -1,7 +1,4 @@
-
-    ) ERC721(name_, symbol_) {
-        baseURI = baseURI_;
-        unrevealedURI = unrevealedURI_;
+dURI_;
 
         maxSupply = maxSupply_;
         maxPerAddress = maxPerAddress_;
