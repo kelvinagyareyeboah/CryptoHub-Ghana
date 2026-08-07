@@ -1,7 +1,4 @@
-MerkleRoot;pprovedMinters;
 
-    // ============================================================
-    //  EVENTS
     // ============================================================
     event Minted(address indexed user, uint256 quantity);
     event PhaseChanged(MintPhase phase);
