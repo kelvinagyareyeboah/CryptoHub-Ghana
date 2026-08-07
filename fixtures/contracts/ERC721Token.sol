@@ -1,5 +1,4 @@
-
-    // ============================================================
+===========================================
     modifier onlyMinter()ner() && !approvedMinters[msg.sender]) {
             revert NotAuthorized();
         }
