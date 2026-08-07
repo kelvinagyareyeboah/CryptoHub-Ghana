@@ -1,5 +1,4 @@
-// SPDX-License-Identifier: GNU
-pragma solidity ^0.8.20;
+// SPDX-Ly ^0.8.20;
 
 // ============================================================
 //  OpenZeppelin Imports
