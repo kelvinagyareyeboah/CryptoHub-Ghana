@@ -1,6 +1,4 @@
-dURI_;
 
-        maxSupply = maxSupply_;
         maxPerAddress = maxPerAddress_;
         mintPrice = mintPrice_;
 
