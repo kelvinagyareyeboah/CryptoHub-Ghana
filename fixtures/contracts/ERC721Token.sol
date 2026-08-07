@@ -1,8 +1,4 @@
-totalMinted;
-    uint256 public immutable maxSupply;
-    uint256 publURI;
-
-    MintPhase public currentPhase;
+rentPhase;
 
     bytes32 public whitelistMerkleRoot;
 
