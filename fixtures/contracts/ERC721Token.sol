@@ -1,8 +1,7 @@
 
  * @
 contract UltraAdvanc
-    ERC2981,
-    Ownable,
+    ERle,
     Pausable,
     ReentrancyGuard
 {
