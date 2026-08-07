@@ -1,5 +1,3 @@
-rdS (Gas Efficient)
-    // =============
 
     error IncorrectETH();
     error SaleNotActive();
