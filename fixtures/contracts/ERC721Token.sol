@@ -1,6 +1,4 @@
-56 quantity);
-    event PhaseChanged(Mini);
-    event 
+
         string memory name_,
         string memory symbol_,
         string memory baseURI_,
