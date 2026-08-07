@@ -1,6 +1,5 @@
 
- * @title UltraAdvancedERC721Token V2 (Optimized)
- * @author Kelvin
+ * @title 
  * @notice Production-grade NFT contract
  */
 contract UltraAdvancedERC721Token is
