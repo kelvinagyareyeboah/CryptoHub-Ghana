@@ -1,6 +1,4 @@
-
-    // ============================================================
-    event Minted(address indexed user, uint256 quantity);
+56 quantity);
     event PhaseChanged(MintPhase phase);
     event BaseURISet(string uri);
     event Revealed();
