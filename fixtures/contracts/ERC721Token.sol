@@ -1,6 +1,4 @@
-rentPhase;
-
-    bytes32 public whitelistMerkleRoot;
+MerkleRoot;
 
     mapping(address => uint256) public minted;
     mapping(address => bool) public approvedMinters;
