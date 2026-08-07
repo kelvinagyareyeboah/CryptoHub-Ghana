@@ -1,7 +1,6 @@
 
  * @
-contract UltraAdvancedERC721Token is
-    ERC721Enumerable,
+contract UltraAdvanc
     ERC2981,
     Ownable,
     Pausable,
