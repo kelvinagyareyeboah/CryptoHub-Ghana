@@ -1,9 +1,6 @@
 56 quantity);
     event PhaseChanged(Mini);
-    event Revealed();
-    event Withdrawn(address indexed to, uint256 amount);
-==========================================
-    constructor(
+    event 
         string memory name_,
         string memory symbol_,
         string memory baseURI_,
