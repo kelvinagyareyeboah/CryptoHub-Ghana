@@ -1,7 +1,4 @@
-
-    }
-
-    function setRoyalty(address receiver, uint96 fee) external onlyOwner {
+dress receiver, uint96 fee) external onlyOwner {
         _setDefaultRoyalty(receiver, fee);
     }
 
