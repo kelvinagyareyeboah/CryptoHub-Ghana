@@ -1,5 +1,4 @@
-onlyOwner {
-        whitelistMerkleRoot = root;
+
     }
 
     function setRoyalty(address receiver, uint96 fee) external onlyOwner {
