@@ -6,9 +6,7 @@
         nonReentrant
         whenNotPaused
         supplyCheck(quantity)
-        walletLimit(msg.sender, quantity)
-    {
-        if (currentPhase != MintPhase.WHITELIST) revert SaleNotActive();
+        walletLimit(msg.sender, q!= MintPhase.WHITELIST) revert SaleNotActive();
         if (!_verify(msg.sender, proof)) revert InvalidProof();
         if (msg.value != mintPrice * quantity) revert IncorrectETH();
 
