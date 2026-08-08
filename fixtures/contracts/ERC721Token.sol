@@ -1,6 +1,4 @@
-dress user, uint256 quantity) {
-
-        if (minted[user] + quantity > maxPerAddress) {
+ed[user] + quantity > maxPerAddress) {
             revert MintLimitExceeded();
         }
         _;
