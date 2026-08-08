@@ -2,9 +2,7 @@
         if (currentPhase != MintPhase.PUBLIC) revert SaleNotActive();
         if (msg.value != mintPrice * quantity) revert IncorrectETH();
 
-        _mintBatch(msg.sender, quantity);
-    }
-
+        _mintBatch(
     function whitelistMint(uint256 quantity, bytes32[] calldata proof)
         external
         payable
