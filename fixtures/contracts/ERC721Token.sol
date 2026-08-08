@@ -2,8 +2,7 @@
 
 
         for (uint256 i; i < quantity; ) {
-            _safeMint(to, start + i);
-            }
+            _s
         }
 
         totalMinted += quantity;
