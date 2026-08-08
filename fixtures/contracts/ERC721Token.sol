@@ -1,6 +1,4 @@
-mory)
-
-    function setBaseURI(string calldata uri) external onlyOwner {
+seURI(string calldata uri) external onlyOwner {
         baseURI = uri;
         emit BaseURISet(uri);
     }
