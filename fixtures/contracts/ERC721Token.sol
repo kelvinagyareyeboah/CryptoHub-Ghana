@@ -1,5 +1,3 @@
- != mintPrice * quantity) revert IncorrectETH();
-
         _mintBatch(
     function whitelistMint(uint256 quantity, bytes32[] calldata proof)
    
