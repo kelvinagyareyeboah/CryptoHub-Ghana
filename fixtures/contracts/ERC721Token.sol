@@ -1,5 +1,4 @@
-al onlyOwner {
-        approvedMinters[minter] = status;
+ters[minter] = status;
     }
 
     function pause() external onlyOwner {
