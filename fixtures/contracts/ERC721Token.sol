@@ -1,5 +1,4 @@
-d + quantity > maxSupply) {
-            revert MaxSupplyExceeded();
+d + quantity > maxplyExceeded();
         }
         _;
     }
