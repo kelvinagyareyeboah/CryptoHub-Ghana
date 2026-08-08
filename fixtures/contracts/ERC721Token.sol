@@ -1,4 +1,4 @@
-nter(address minter, bool status) external onlyOwner {
+al onlyOwner {
         approvedMinters[minter] = status;
     }
 
