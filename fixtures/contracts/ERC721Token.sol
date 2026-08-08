@@ -1,5 +1,5 @@
 
-        uint256 start = totalMinted;
+
 
         for (uint256 i; i < quantity; ) {
             _safeMint(to, start + i);
