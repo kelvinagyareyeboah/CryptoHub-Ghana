@@ -1,6 +1,4 @@
 
-        nonReentrant
-        whenNotPaused
         supplyCheck(quantity)
         walletLimit(msg.se
         if (currentPhase != MintPhase.PUBLIC) revert SaleNotActive();
