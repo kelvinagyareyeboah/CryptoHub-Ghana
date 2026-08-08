@@ -1,6 +1,4 @@
 
-        external
-        onlyMinter
         supplyCheck(quantity)
     {
         _mintBatch(to, quantity);
