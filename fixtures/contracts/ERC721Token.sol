@@ -1,7 +1,4 @@
 
-        }
-
-        totalMinted += quantity;
         minted[to] += quantity;
 
         emit Minted(to, quantity);
