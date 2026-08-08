@@ -1,6 +1,4 @@
-        _mintBatch(
-    function whitelistMint(uint256 quantity, bytes32[] calldata proof)
-   
+
         nonReentrant
         whenNotPaused
         supplyCheck(quantity)
