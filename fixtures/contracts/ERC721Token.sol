@@ -1,4 +1,4 @@
-address to, uint256 quantity) internal {
+
         uint256 start = totalMinted;
 
         for (uint256 i; i < quantity; ) {
