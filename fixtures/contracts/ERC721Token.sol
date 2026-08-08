@@ -1,5 +1,4 @@
-al() external onlyOwner {
-        revealed = true;
+
         emit Revealed();
     }
 
