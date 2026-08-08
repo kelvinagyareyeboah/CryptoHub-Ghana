@@ -1,6 +1,4 @@
 
-        supplyCheck(quantity)
-    {
         _mintBatch(to, quantity);
     }
 
