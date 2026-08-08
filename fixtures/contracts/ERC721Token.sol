@@ -1,6 +1,4 @@
-mory) {
-        return Strings.toString(value);
-    }
+mory)
 
     function setBaseURI(string calldata uri) external onlyOwner {
         baseURI = uri;
