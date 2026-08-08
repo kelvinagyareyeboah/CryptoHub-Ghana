@@ -5,9 +5,6 @@
 
         for (uint256 i; i < quantity; ) {
             _safeMint(to, start + i);
-
-            unchecked {
-                i++;
             }
         }
 
