@@ -1,7 +1,5 @@
 
-        _mintBatch(msg.sender, quantity);
-    }
-
+   
     function adminMint(address to, uint256 quantity)
         external
         onlyMinter
