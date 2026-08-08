@@ -1,6 +1,4 @@
-toString(tokenId), ".json")
-        );
-    }
+
 
     function _toString(uint256 value) internal pure returns (string memory) {
         return Strings.toString(value);
