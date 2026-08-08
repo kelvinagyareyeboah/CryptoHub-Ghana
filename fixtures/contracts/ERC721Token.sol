@@ -1,5 +1,4 @@
-ntity)
-        walletLimit(msg.sender, q!= MintPhase.WHITELIST) revert SaleNotActive();
+q!= MintPhase.WHITELIST) revert SaleNotActive();
         if (!_verify(msg.sender, proof)) revert InvalidProof();
         if (msg.valt IncorrectETH();
 
