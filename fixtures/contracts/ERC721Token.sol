@@ -1,5 +1,4 @@
-
-    function pause() external onlyOwner {
+rnal onlyOwner {
         _pause();
     }
 
