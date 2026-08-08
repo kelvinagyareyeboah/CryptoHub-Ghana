@@ -1,4 +1,4 @@
-rt SaleNotActive();
+();
         if (!_verify(msg.sender, proof)) revert InvalidProof();
         if (msg.valt IncorrectETH();
 
