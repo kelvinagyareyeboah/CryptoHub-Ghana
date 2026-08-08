@@ -1,5 +1,3 @@
-idProof();
-        if (msg.valt IncorrectETH();
 
         _mintBatch(msg.sender, quantity);
     }
