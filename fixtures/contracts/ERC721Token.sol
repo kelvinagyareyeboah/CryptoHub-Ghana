@@ -1,5 +1,4 @@
-dress receiver, uint96 fee) external onlyOwner {
-        _setDefaultRoyalty(receiver, fee);
+(receiver, fee);
     }
 
     function setMinter(address minter, bool status) external onlyOwner {
