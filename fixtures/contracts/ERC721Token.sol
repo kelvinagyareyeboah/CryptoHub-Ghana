@@ -1,6 +1,4 @@
 
-    // ============================================================
-    function mint(uint256 quantity)
         external
         payable
         nonReentrant
