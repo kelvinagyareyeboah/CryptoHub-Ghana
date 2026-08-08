@@ -1,5 +1,4 @@
-256 quantity) {
-        if (totalMinted + quantity > maxSupply) {
+d + quantity > maxSupply) {
             revert MaxSupplyExceeded();
         }
         _;
