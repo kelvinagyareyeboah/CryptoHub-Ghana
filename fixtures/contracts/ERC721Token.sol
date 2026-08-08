@@ -1,7 +1,5 @@
 
-        minted[to] += quantity;
-
-        emit Minted(to, quantity);
+        mintquantity);
     }
 
     // ============================================================
