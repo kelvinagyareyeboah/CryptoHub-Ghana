@@ -1,6 +1,4 @@
 
-        supplyCheck(quantity)
-        walletLimit(msg.se
         if (currentPhase != MintPhase.PUBLIC) revert SaleNotActive();
         if (msg.value != mintPrice * quantity) revert IncorrectETH();
 
