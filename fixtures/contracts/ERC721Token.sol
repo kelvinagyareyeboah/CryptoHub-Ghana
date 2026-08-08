@@ -1,6 +1,4 @@
-
-        if (currentPhase != MintPhase.PUBLIC) revert SaleNotActive();
-        if (msg.value != mintPrice * quantity) revert IncorrectETH();
+ != mintPrice * quantity) revert IncorrectETH();
 
         _mintBatch(
     function whitelistMint(uint256 quantity, bytes32[] calldata proof)
