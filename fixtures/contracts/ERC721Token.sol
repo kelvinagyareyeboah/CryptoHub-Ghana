@@ -1,6 +1,4 @@
 
-        external
-        payable
         nonReentrant
         whenNotPaused
         supplyCheck(quantity)
