@@ -1,5 +1,4 @@
-
-            abi.encodePacked(baseURI, _toString(tokenId), ".json")
+toString(tokenId), ".json")
         );
     }
 
