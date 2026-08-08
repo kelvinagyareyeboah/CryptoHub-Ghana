@@ -1,4 +1,4 @@
-stRoot(bytes32 root) external onlyOwner {
+onlyOwner {
         whitelistMerkleRoot = root;
     }
 
