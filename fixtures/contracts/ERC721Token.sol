@@ -1,7 +1,4 @@
 
-        emit BaseURISet(uri);
-    }
-
     function reveal() external onlyOwner {
         revealed = true;
         emit Revealed();
