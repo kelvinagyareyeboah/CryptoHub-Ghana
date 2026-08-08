@@ -1,7 +1,4 @@
-aseChanged(phase);
-    }
-
-    function setMintPrice(uint256 price) external onlyOwner {
+aseChanMintPrice(uint256 price) external onlyOwner {
         mintPrice = price;
     }
 
