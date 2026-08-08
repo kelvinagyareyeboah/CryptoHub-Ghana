@@ -1,7 +1,4 @@
-
-    }
-
-    function setWhitelistRoot(bytes32 root) external onlyOwner {
+stRoot(bytes32 root) external onlyOwner {
         whitelistMerkleRoot = root;
     }
 
