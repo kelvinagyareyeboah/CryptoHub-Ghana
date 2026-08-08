@@ -1,5 +1,4 @@
-rnal onlyOwner {
-        _pause();
+();
     }
 
     function unpause() external onlyOwner {
