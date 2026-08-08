@@ -1,5 +1,4 @@
-aseChanMintPrice(uint256 price) external onlyOwner {
-        mintPrice = price;
+
     }
 
     function setWhitelistRoot(bytes32 root) external onlyOwner {
