@@ -1,6 +1,4 @@
 
-        public
-        view
         override
         returns (string memory)
     {
