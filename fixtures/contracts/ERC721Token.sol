@@ -1,8 +1,4 @@
-
-        _mintBatch(to, quantity);
-    }
-
-    // =======================================
+=================================
     // ============================================================
     function _mintBatch(address to, uint256 quantity) internal {
         uint256 start = totalMinted;
