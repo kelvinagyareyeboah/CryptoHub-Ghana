@@ -1,5 +1,4 @@
-se phase) external onlyOwner {
-        currentPhase = phase;
+ = phase;
         emit PhaseChanged(phase);
     }
 
