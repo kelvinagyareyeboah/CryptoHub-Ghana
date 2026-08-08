@@ -1,6 +1,4 @@
-evealed) return unrevealedURI;
 
-        return string(
             abi.encodePacked(baseURI, _toString(tokenId), ".json")
         );
     }
