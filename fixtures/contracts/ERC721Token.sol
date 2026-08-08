@@ -1,5 +1,4 @@
- uri) external onlyOwner {
-        baseURI = uri;
+
         emit BaseURISet(uri);
     }
 
