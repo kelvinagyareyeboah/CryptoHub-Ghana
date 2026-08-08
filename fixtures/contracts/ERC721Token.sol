@@ -2,8 +2,7 @@
 
         _mintBatch(
     function whitelistMint(uint256 quantity, bytes32[] calldata proof)
-        external
-        payable
+   
         nonReentrant
         whenNotPaused
         supplyCheck(quantity)
