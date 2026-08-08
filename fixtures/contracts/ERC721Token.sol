@@ -1,6 +1,4 @@
 
-   
-    function adminMint(address to, uint256 quantity)
         external
         onlyMinter
         supplyCheck(quantity)
