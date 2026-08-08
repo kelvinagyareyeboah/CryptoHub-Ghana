@@ -1,5 +1,4 @@
-();
-        if (!_verify(msg.sender, proof)) revert InvalidProof();
+msg.sender, proof)) revert InvalidProof();
         if (msg.valt IncorrectETH();
 
         _mintBatch(msg.sender, quantity);
