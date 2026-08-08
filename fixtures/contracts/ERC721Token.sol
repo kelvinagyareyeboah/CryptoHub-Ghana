@@ -1,4 +1,4 @@
-msg.sender, proof)) revert InvalidProof();
+idProof();
         if (msg.valt IncorrectETH();
 
         _mintBatch(msg.sender, quantity);
