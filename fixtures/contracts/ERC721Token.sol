@@ -1,6 +1,4 @@
-==========
-        _;
-    }
+
 
     modifier supplyCheck(uint256 quantity) {
         if (totalMinted + quantity > maxSupply) {
