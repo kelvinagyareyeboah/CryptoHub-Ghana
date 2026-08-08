@@ -1,4 +1,4 @@
-seURI(string calldata uri) external onlyOwner {
+ uri) external onlyOwner {
         baseURI = uri;
         emit BaseURISet(uri);
     }
