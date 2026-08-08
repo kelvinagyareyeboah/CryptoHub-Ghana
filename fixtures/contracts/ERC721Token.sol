@@ -1,8 +1,5 @@
+dress user, uint256 quantity) {
 
-        _;
-    }
-
-    modifier walletLimit(address user, uint256 quantity) {
         if (minted[user] + quantity > maxPerAddress) {
             revert MintLimitExceeded();
         }
