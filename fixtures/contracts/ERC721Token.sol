@@ -1,6 +1,4 @@
-string memory)
-    {
-        if (!revealed) return unrevealedURI;
+evealed) return unrevealedURI;
 
         return string(
             abi.encodePacked(baseURI, _toString(tokenId), ".json")
