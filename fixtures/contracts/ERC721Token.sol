@@ -1,5 +1,3 @@
-ters[minter] = status;
-    }
 
     function pause() external onlyOwner {
         _pause();
