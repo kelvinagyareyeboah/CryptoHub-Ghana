@@ -1,5 +1,4 @@
- = phase;
-        emit PhaseChanged(phase);
+aseChanged(phase);
     }
 
     function setMintPrice(uint256 price) external onlyOwner {
