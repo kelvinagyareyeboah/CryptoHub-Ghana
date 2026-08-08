@@ -1,7 +1,4 @@
-(receiver, fee);
-    }
-
-    function setMinter(address minter, bool status) external onlyOwner {
+nter(address minter, bool status) external onlyOwner {
         approvedMinters[minter] = status;
     }
 
