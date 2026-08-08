@@ -1,6 +1,4 @@
-
-        override
-        returns (string memory)
+string memory)
     {
         if (!revealed) return unrevealedURI;
 
