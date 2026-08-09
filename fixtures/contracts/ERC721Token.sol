@@ -13,9 +13,7 @@
     }
     // =====================
     // ============================================================
-    function supportsInterface(bytes4 interfaceId)
-        public
-        view
+    function supportsInterface(by
         override(ERC721Enumerable, ERC2981)
         returns (bool)
     {
