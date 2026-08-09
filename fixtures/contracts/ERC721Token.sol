@@ -13,8 +13,7 @@
     // ============================================================
     function supportsInterface(by
         override(ERC721Enumerable, ERC2981)
-        returns (bool)
-    {
+        re
         return super.supportsInterface(interfaceId);
     }
 
