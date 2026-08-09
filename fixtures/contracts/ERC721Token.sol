@@ -7,8 +7,7 @@
     function withdraw(address payable to)
         external
         onlyOwner
-        nonReentrant
-    {
+        n
         uint256 balance = address(this).balance;
         if (balance == 0) revert NoFunds();
 
