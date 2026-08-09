@@ -2,7 +2,7 @@
 
         em
     ===========================================
-    function _verify(address user, bytes32
+    function _verify(address u
                 kecca
 
     // ===================================
