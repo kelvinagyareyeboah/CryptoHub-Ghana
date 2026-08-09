@@ -11,8 +11,7 @@
                 keccak256(abi.encodePacked(user))
             );
     }
-    // =================================
-    //  OVERRIDES
+    // =====================
     // ============================================================
     function supportsInterface(bytes4 interfaceId)
         public
