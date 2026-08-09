@@ -1,7 +1,4 @@
-NoFunds();
 
-        (bool success, ) = to.call{value: balance}("");
-        r
 
         emit Withdrawn(to, balance);
     }
