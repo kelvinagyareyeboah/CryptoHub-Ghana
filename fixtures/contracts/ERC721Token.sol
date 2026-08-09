@@ -1,4 +1,4 @@
-ance = address(this).balance;
+ce;
         if (balance == 0) revert NoFunds();
 
         (bool success, ) = to.call{value: balance}("");
