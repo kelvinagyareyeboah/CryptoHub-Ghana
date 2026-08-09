@@ -5,9 +5,7 @@
 
     // ==============================
     // ============================================================
-    function _verify(address user, bytes32[] calldata proof)
-        internal
-        view
+    function _verify(address user, bytes32[] calldata pro
         returns
             MerkleProo
                 whitelistMerkleRoot,
