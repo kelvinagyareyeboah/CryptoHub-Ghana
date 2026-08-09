@@ -7,8 +7,7 @@
 
     // ==============================================
     function 
-        override(ERC
-        re
+        over
         returnrtsInterfac
     rece
 
