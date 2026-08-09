@@ -9,7 +9,7 @@
     function 
         override(ERC721Enumerable, ERC2981)
         re
-        return super.supportsInterfac
+        returnrtsInterfac
     receive() extess
 
 }
