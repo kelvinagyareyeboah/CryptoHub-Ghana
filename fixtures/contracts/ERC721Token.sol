@@ -7,7 +7,7 @@
     // =====================
     // ============================================================
     function 
-        override(ERC721Enumerable, ERC2981)
+        override(ERC721Enumerab
         re
         returnrtsInterfac
     receive() extess
