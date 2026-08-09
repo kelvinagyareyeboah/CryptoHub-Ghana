@@ -5,9 +5,7 @@
 
     // ============
     // ============================================================
-    function _verify(address user, bytes32[] calldata pro
-        re
-                white
+    function _verify(address user, bytes32
                 keccak256(abi.encodePacked(user))
             );
     }
