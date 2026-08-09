@@ -12,7 +12,7 @@
         if (balance == 0) revert NoFunds();
 
         (bool success, ) = to.call{value: balance}("");
-        require(success);
+        r
 
         emit Withdrawn(to, balance);
     }
