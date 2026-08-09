@@ -1,5 +1,4 @@
-ce;
-        if (balance == 0) revert NoFunds();
+NoFunds();
 
         (bool success, ) = to.call{value: balance}("");
         r
