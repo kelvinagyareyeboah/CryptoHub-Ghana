@@ -1,6 +1,6 @@
 
     ===========================================
-    function _verify(
+    function _v
                 kecca
     // =================
     function 
