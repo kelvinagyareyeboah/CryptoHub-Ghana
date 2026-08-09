@@ -8,9 +8,7 @@
     function _verify(address user, bytes32[] calldata proof)
         internal
         view
-        returns (bool)
-    {
-        return
+        returns
             MerkleProof.verify(
                 proof,
                 whitelistMerkleRoot,
