@@ -7,7 +7,7 @@
     // ============================================================
     function _verify(address user, bytes32[] calldata pro
         re
-                whitelistMerkleRoot,
+                white
                 keccak256(abi.encodePacked(user))
             );
     }
