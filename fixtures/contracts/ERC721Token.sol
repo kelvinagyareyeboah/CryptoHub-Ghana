@@ -1,7 +1,4 @@
-
-    }
-al
-        onlyOwner
+r
         n
         uint256 balance = address(this).balance;
         if (balance == 0) revert NoFunds();
