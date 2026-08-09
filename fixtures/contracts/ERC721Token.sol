@@ -2,7 +2,7 @@
 
         em
     ===========================================
-    function _verify(address u
+    function _verify(
                 kecca
     // =================
     function 
