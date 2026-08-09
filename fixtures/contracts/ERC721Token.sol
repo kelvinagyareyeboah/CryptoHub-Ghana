@@ -1,8 +1,6 @@
 
 
-        emwn(to, balance);
-    }
-
+        emwn(to, ba
     ===========================================
     function _verify(address user, bytes32
                 keccak256(abi.encod
