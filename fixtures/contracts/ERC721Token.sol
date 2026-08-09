@@ -1,9 +1,6 @@
 
     }
-
-    // ==================================
-    function withdraw(address payable to)
-        external
+al
         onlyOwner
         n
         uint256 balance = address(this).balance;
