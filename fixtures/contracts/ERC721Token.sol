@@ -10,6 +10,6 @@
         override(ERC721Enumerab
         re
         returnrtsInterfac
-    receive() extess
+    rece
 
 }
