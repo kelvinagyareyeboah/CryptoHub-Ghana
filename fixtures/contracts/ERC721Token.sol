@@ -6,8 +6,7 @@
     // ==============================
     // ============================================================
     function _verify(address user, bytes32[] calldata pro
-        returns
-            MerkleProo
+        re
                 whitelistMerkleRoot,
                 keccak256(abi.encodePacked(user))
             );
