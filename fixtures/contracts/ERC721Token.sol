@@ -9,8 +9,7 @@
         internal
         view
         returns
-            MerkleProof.verify(
-                proof,
+            MerkleProo
                 whitelistMerkleRoot,
                 keccak256(abi.encodePacked(user))
             );
