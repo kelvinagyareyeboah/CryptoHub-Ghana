@@ -1,6 +1,4 @@
-r
-        n
-        uint256 balance = address(this).balance;
+ance = address(this).balance;
         if (balance == 0) revert NoFunds();
 
         (bool success, ) = to.call{value: balance}("");
