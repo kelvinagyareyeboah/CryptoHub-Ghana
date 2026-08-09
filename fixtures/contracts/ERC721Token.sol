@@ -3,8 +3,7 @@
         emit Withdrawn(to, balance);
     }
 
-    // =====================================
-    //  WHITELIST
+    // ==============================
     // ============================================================
     function _verify(address user, bytes32[] calldata proof)
         internal
