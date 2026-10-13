@@ -5,12 +5,7 @@ https://ethereum.org/)
 [![Made in Ghana](https://img.shields.io/badge/Made%20in-Ghana%20🇬🇭-006B3F)](https://github.com/KelvCodes/CryptoHBuilt for enthusiasts, traders, and auditors across Ghana and beyond.
 
 [Getting- 🔗 **On-Chain Logging** — User interactions recorded transparently via a Solidity smart contract on Ethereum - 🎨 **Sleek UI** — Responsive, modern interface built with React and Tailwind CSS
-- 🌍 **Ghana-First** — Designed with the local crypto community in mind
-
----
-
-## 🛠️ Tech Stack
-
+- 🌍 **Ghana-First** — Designed with the local crypto community 
 | Layer | Technology | Badge |
 |---|---|---|
 | Smart Contracts | Solidity (Ethereum Testnet) | ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white) |
