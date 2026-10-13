@@ -6,7 +6,7 @@
 ├── 📂 contracts/          # Solidity smart contracts (interaction logger)
 ├── 📂 migrations/         # Truffle deployment scripts
 ├── 📂 src/
-│   ├── 📂 components/     # React UI components
+│   ├── 📂 components/ 
 │   ├── 📂 hooks/          # Custom React hooks (price fetching, Web3)
 │   ├── 📂 utils/          # API helpers and Web3 utilities
 │   └── 📄 App.js
