@@ -6,7 +6,7 @@ dge/Tailwind_CSS-3.x-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwind
 [![PRs Welcome](https://img.shields.io/ceen.svg)]
 [![Made in Ghana](https://img.shields.io/badge/Made%20in-Ghana%20🇬🇭-006B3F)](https://github.com/KelvCodes/CryptoHBuilt for enthusiasts, traders, and auditors across Ghana and beyond.
 
-[Getting Started](#-getting-started) · [Features](#-featu
+[Getting Started](#-getting-started) · [Feat
 ## ✨ Features
 
 - 📈 **Live Price Tracking** — Real-time cryptocurrency data powered by the CoinGecko API
