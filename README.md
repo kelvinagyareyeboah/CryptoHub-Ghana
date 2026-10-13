@@ -4,8 +4,7 @@ https://ethereum.org/)
 [![PRs
 [![Made in Ghana](https://img.shields.io/badge/Made%20in-Ghana%20🇬🇭-006B3F)](https://github.com/KelvCodes/CryptoHBuilt for enthusiasts, traders, and auditors across Ghana and beyond.
 
-[Getting Started](#-gettin
-## ✨ Features
+[Getting Started](#-gett
 
 - 📈 **Live Price Tracking** — Real-time cryptocurrency data powered by the CoinGecko API
 - 🔗 **On-Chain Logging** — User interactions recorded transparently via a Solidity smart contract on Ethereum testnet
