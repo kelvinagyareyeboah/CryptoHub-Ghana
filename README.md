@@ -8,9 +8,7 @@
 ├── 📂 src/
 │   ├── 📂 components/ 
 │   ├── 📂 hooks/          # Custom React hooks (price fetching, Web3)
-│   ├── 📂 utils/          # API helpers and Web3 utilities
-│   └── 📄 App.js
-├── 📂 test/               # Contract tests
+│   ├── 📂 utils/          # API helpers and├── 📂 test/               # Contract tests
 ├── 📄 .env.example        # Environment variable template
 └── 📄 truffle-config.js
 ```
