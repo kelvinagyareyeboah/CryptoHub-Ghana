@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 CryptoHub Ghana
+# 🚀 Cryp
 
 **A decentralized crypto price tracker built for Ghana, powered by blockchain.**
 
