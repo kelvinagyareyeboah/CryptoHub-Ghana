@@ -1,4 +1,4 @@
-x-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+css&logoColor=white)](https://tailwindcss.com/)
 [![Solidity](https://img.shields.io/badge/Solidity-0.8-363636?logo=solidity&logoColor=white)](https://soliditylang.org/)
 [![Ethereum](https://img.shields.io/badge/Network&logoColor=white)](https://ethereum.org/)
 [![Web3..shields.io/badge/Web3.js-1.x-F16822?logo=web3dotjs&logoColor=white)](https://web3js.readthedocs.io/)
