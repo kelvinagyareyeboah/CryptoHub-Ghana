@@ -9,11 +9,8 @@ dge/Tailwind_CSS-3.x-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwind
 Real-time crypto prices. On-chain interaction logging. Wallet-connected.  
 Built for enthusiasts, traders, and auditors across Ghana and beyond.
 
-[Getting Started](#-getting-started) · [Features](#-features) · [Tech Stack](#-tech-stack) · [Contributing](#-contributing)
+[Getting Started](#-getting-started) · [Features](#-features) · [Tech Stack](#-tech-stack) · [Contr---
 
-</div>
-
----
 
 ## ✨ Features
 
