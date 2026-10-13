@@ -1,5 +1,5 @@
 ?logo=web3dotjs&logoColor=white)](https://web3js.readthedocs.io/)
-[![CoinGecko](https://img.shields.io/badge/API-CoinGecko-8DC63F?logo=coingecko&logoColor=white)](https://www.coingecko.com/en/api)
+[![Coimg.shields.io/badge/API-CoinGecko-8DC63F?logo=coingecko&logoColor=white)](https://www.coingecko.com/en/api)
 [![PRs
 [![Made in Ghana](https://img.shields.io/badge/Made%20in-Ghana%20🇬🇭-006B3F)](https://github.com/KelvCodes/CryptoHBuilt for enthusiasts, traders, and auditors across Ghana ands
 | Blockchain Bridge | Web3.js | ![Web3](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white) |
