@@ -4,11 +4,7 @@ https://ethereum.org/)
 [![PRs
 [![Made in Ghana](https://img.shields.io/badge/Made%20in-Ghana%20🇬🇭-006B3F)](https://github.com/KelvCodes/CryptoHBuilt for enthusiasts, traders, and auditors across Ghana and beyond.
 
-[Getting- 🔗 **On-Chain Logging** — User interactions recorded transparently via contract on Ethereum - 🎨 **Sleek UI** — Responsive, modern interface built with React and Tailwind CSS
-- 🌍 **Ghana-First** — Designed with the local cr
-| Layer | Technology | Badge |
-|---|---|---|
-| Smart Contracts | Solidity (Ethereum Testnet) | ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white) |
+[Getting- 🔗 **On-Chain Logging** — User interactions recorded transparently via contract on Ethereum - 🎨 **Sleek UI** — Responsive, modern interface built with React and Tail| Layer | Technol| Smart Contracts | Solidity (Ethereum Testnet) | ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white) |
 | Frontend | React | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) |
 | Styling | Tailwind CSS | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) |
 | Blockchain Bridge | Web3.js | ![Web3](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white) |
