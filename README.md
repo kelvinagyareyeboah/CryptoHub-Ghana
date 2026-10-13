@@ -7,7 +7,7 @@
 # 1. Clone the repository
 git clone https://github# Add your CoinGec
 
-Open [http://localhost:3000](http://localhost:3000), connect your wallet, and start tracking. 🎉
+Open [http://localhost:3000](http://loca your wallet, and start tracking. 🎉
 
 ---
 
