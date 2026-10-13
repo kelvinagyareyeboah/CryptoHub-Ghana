@@ -12,12 +12,7 @@ https://ethereum.org/)
 ## ⚡ Ge
 ### Prerequisites
 
-![Node](https://img.shields.io/badge/Node.js-≥16-339933?logo=nodedotjs&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-Required-E2761B?logo=metamask&logoColor=white)
-
-- **Node.js** ≥ 16
-- **MetaMask** browser extension (or any Web3 wallet)
-- A free [CoinGecko API key](https://www.coingecko.com/en/api) *(optional for higher rate limits)*
+![Node](https://img.shields.io/badge/Node.js-≥16-339933?logo=nodedotjs&logoC- A free [CoinGecko API key](https://www.coingecko.com/en/api) *(optional for higher rate limits)*
 
 ### Installation
 
