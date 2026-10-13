@@ -4,7 +4,7 @@
 ```
 
 1. 🦊 **Connect** your MetaMask wallet to the Ethereum testnet
-2. 📈 **Browse** live crypto prices pulled from CoinGecko in real time
+2. 📈 **Browse** live crypto pri in real time
 3. 🖱️ **Interact** — search, filter, and explore your favourite coins
 4. 🔗 **Log** — each interaction is optionally recorded on-chain for full transparency
 5. 📜 **Audit** — anyone can verify the interaction history on the testnet explorer
