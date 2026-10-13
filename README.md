@@ -5,11 +5,7 @@
 | Blockchain Bridge | Web3.js | ![Web3](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white) |
 | Price Data | CoinGecko API | ![CoinGecko](https://img.shields.io/badge/Coinl```bash
 # 1. Clone the repository
-git clone https://github.com/KelvCodes/
-cd 
-
-npm icp .env.example .env
-# Add your CoinGecko API key and test
+git clone https://github# Add your CoinGecko API key and test
 
 # 4. St
 npm start
