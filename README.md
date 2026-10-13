@@ -1,4 +1,4 @@
-adge/Network&logoColor=white)](https://ethereum.org/)
+https://ethereum.org/)
 [![Web3..shields.io/badge/Web3.js-1.x-F16822?logo=web3dotjs&logoColor=white)](https://web3js.readthedocs.io/)
 [![CoinGecko](https://img.shields.io/badge/API-CoinGecko-8DC63F?logo=coingecko&logoColor=white)](https://www.coingecko.com/en/api)
 [![PRs
