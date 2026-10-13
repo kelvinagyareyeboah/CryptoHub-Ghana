@@ -3,8 +3,7 @@
 | Price Data | CoinGecko API | ![CoinGecko](https://img.shields.io/badggit clone https     🦊                  📈                      🖱️                     🔗
 ```
 
-1. 🦊 **Connect** your MetaMask wallet to the Ethereum testnet
-2. 📈 **Browse** live crypto pri in real time
+1. 🦊 **Connect** your MetaMask wallet
 3. 🖱️ **Interact** — search, filter, and explore your favourite coins
 4. 🔗 **Log** — each interaction is optionally recorded on-chain for full transparency
 5. 📜 **Audit** — anyone can verify the interaction history on the testnet explorer
