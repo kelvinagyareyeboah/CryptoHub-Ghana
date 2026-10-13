@@ -4,9 +4,7 @@
 4. 🔗 **Log** — each interaction is optionally recorded on-chain for full transparency
 5. 📜 **Audit** — anyone can verify the i├── 📂 migrations/         # Truffle deployment scrip## 🌐 
 
-Create a `.env` file in the root directory:
-
-```env
+Create a `.env` file in
 REACT_APP_COINGECKO_API_KEY=your_api_key_here
 REACT_APP_RPC_URL=https://your-testnet-rpc-url
 REACT_APP_CONTRACT_ADDRESS=0xYourDeployedContractAddress
