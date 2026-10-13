@@ -5,7 +5,7 @@ https://ethereum.org/)
 [![Made in Ghana](https://img.shields.io/badge/Made%20in-Ghana%20🇬🇭-006B3F)](https://github.com/KelvCodes/CryptoHBuilt for enthusiasts, traders, and auditors across Ghana ands
 | Blockchain Bridge | Web3.js | ![Web3](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white) |
 | Price Data | CoinGecko API | ![CoinGecko](https://img.shields.io/badge/CoinGecko-8DC63F?logo=coingecko&logoColor=white) |
-| Package Manager | npm | ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white) |
+| Package Manager | npm | ![npm](https://img.shields.io/badgeogo=npm&logoColor=white) |
 
 ---
 
