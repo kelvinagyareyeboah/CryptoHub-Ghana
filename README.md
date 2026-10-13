@@ -4,7 +4,7 @@
 [![PRs
 [![Made in Ghana](https://img.shields.io/badge/Made%20in-Ghana%20🇬🇭-006B3F)](https://github.com/KelvCodes/CryptoHBuilt for enthusiasts, traders, and auditors across Ghana ands
 | Blockchain Bridge | Web3.js | ![Web3](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white) |
-| Price Data | CoinGecko API | ![CoinGecko](https://img.shields.io/badge/CoinGecko-8DC63F?logo=coingecko&logoC### Prerequisites
+| Price Data | CoinGecko API | ![CoinGecko](https://img.shields.io/badge/CoinlogoC### Prerequisites
 
 ![Node](https://img.shields.io/badge/Node.js-≥16-339933?logo=nodedotjs&logoC- A free [CoinGecko API key](https://www.coingecko.com/en/api) *(optional for higher rate limits)*
 
