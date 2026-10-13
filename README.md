@@ -9,8 +9,7 @@ https://ethereum.org/)
 
 ---
 
-## ⚡ Getting Started
-
+## ⚡ Ge
 ### Prerequisites
 
 ![Node](https://img.shields.io/badge/Node.js-≥16-339933?logo=nodedotjs&logoColor=white)
