@@ -9,10 +9,7 @@ git clone https://github.com/KelvCodes/
 cd CryptoHubGhana
 
 # 2. Install dependencies
-npm install
-
-# 3. Configure environment variables
-cp .env.example .env
+npm icp .env.example .env
 # Add your CoinGecko API key and testnet RPC URL to .env
 
 # 4. Start the app
