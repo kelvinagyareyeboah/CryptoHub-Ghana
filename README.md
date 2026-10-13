@@ -1,12 +1,6 @@
 ?logo=web3dotjs&logoColor=white)](https://web3js.readthedocs.io/)
 [![Coimg.shields.io/badge/API-CoinGecko-8DC63F?logo=coingecko&logoColor=white)](https://www.coingecko.com/en/| Blockchain Bridge | Web3.js | ![Web3](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white) |
-| Price Data | CoinGecko API | ![CoinGecko](https://img.shields.io/badggit clone https://gith
----
-
-## 🔄
-```
-Connect Wallet  →  Fetch Live Prices  →  Interact with dApp  →  Log to Blockchain
-     🦊                  📈                      🖱️                     🔗
+| Price Data | CoinGecko API | ![CoinGecko](https://img.shields.io/badggit clone https     🦊                  📈                      🖱️                     🔗
 ```
 
 1. 🦊 **Connect** your MetaMask wallet to the Ethereum testnet
