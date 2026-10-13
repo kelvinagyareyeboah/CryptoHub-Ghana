@@ -3,8 +3,7 @@
 | Price Data | CoinGecko API | ![CoinGecko](https://img.shields.io/badggit clone https     🦊                  📈                      🖱️               3. 🖱️ **Interact** — search, filter, and explore your favourite coins
 4. 🔗 **Log** — each interaction is optionally recorded on-chain for full transparency
 5. 📜 **Audit** — anyone can verify the i├── 📂 migrations/         # Truffle deployment scripts
-├── 📂 src/
-│   ├── 📂 components/ 
+├── 📂 sr
 │   ├── 📂 hooks/          # Custom React hooks (price fetching, Web3)
 │   ├── 📂 utils/          # API helpers and├── 📂 test/               # Contract tests
 ├── 📄 .env.example        # Environment variable template
