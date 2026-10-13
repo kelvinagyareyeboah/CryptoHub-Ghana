@@ -3,9 +3,7 @@
 [![PRs
 [![Made in Ghana](https://img.shields.io/badge/Made%20in-Ghana%20🇬🇭-006B3F)](https://github.com/KelvCodes/CryptoHBuilt for enthusiasts, traders, and auditors across Ghana ands
 | Blockchain Bridge | Web3.js | ![Web3](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white) |
-| Price Data | CoinGecko API | ![CoinGecko](https://img.shields.io/badge/Coinl```bash
-# 1. Clone the repository
-git clone https://github# Add
+| Price Data | CoinGecko API | ![CoinGecko](https://img.shields.io/badggit clone https://github# Add
 Open [http://localhost:3000](http://loca your wallet, and start tracking. 🎉
 
 ---
