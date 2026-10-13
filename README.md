@@ -9,7 +9,7 @@
 │   ├── 📂 utils/          # API helpers and├── 📂 test/               # Contract tests
 ├── 📄 .env.example        # Environment variable template
 └── 📄 t
-## 🌐 Environment Variables
+## 🌐 
 
 Create a `.env` file in the root directory:
 
