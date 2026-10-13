@@ -3,7 +3,7 @@ dge/Tailwind_CSS-3.x-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwind
 [![Ethereum](https://img.shields.io/badge/Network&logoColor=white)](https://ethereum.org/)
 [![Web3..shields.io/badge/Web3.js-1.x-F16822?logo=web3dotjs&logoColor=white)](https://web3js.readthedocs.io/)
 [![CoinGecko](https://img.shields.io/badge/API-CoinGecko-8DC63F?logo=coingecko&logoColor=white)](https://www.coingecko.com/en/api)
-[![PRs Welcome](https://img.shields.io/ceen.svg)]
+[![PRs Welcome](https://im
 [![Made in Ghana](https://img.shields.io/badge/Made%20in-Ghana%20🇬🇭-006B3F)](https://github.com/KelvCodes/CryptoHBuilt for enthusiasts, traders, and auditors across Ghana and beyond.
 
 [Getting Started](#-gettin
