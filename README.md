@@ -2,9 +2,7 @@
 [![Coimg.shields.io/badge/API-CoinGecko-8DC63F?logo=coingecko&logoColor=white)](https://www.coingecko.com/en/| Blockchain Bridge | Web3.js | ![Web3](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white) |
 | Price Data | CoinGecko API | ![CoinGecko](https://img.shields.io/badggit clone https     🦊                  📈                      🖱️               3. 🖱️ **Interact** — search, filter, and explore your favourite coins
 4. 🔗 **Log** — each interaction is optionally recorded on-chain for full transparency
-5. 📜 **Audit** — anyone can verify the interaction h
-```
-CryptoHubGhana/
+5. 📜 **Audit** — anyone can verify the interac
 ├── 📂 contracts/          # Solidity smart contracts (interaction logger)
 ├── 📂 migrations/         # Truffle deployment scripts
 ├── 📂 src/
