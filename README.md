@@ -1,6 +1,5 @@
 
-[![Solidity](https://img.shields.io/badge/Solidity-0.8-363636?logo=solidity&logoColor=white)](https://soliditylang.org/)
-[![Ethereum](https://img.shields.io/badge/Network&logoColor=white)](https://ethereum.org/)
+[![Solidity](https://imgs.io/badge/Network&logoColor=white)](https://ethereum.org/)
 [![Web3..shields.io/badge/Web3.js-1.x-F16822?logo=web3dotjs&logoColor=white)](https://web3js.readthedocs.io/)
 [![CoinGecko](https://img.shields.io/badge/API-CoinGecko-8DC63F?logo=coingecko&logoColor=white)](https://www.coingecko.com/en/api)
 [![PRs
