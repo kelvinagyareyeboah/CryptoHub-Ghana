@@ -12,7 +12,7 @@ cd CryptoHubGhana
 npm icp .env.example .env
 # Add your CoinGecko API key and testnet RPC URL to .env
 
-# 4. Start the app
+# 4. St
 npm start
 ```
 
