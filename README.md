@@ -2,8 +2,7 @@
 
 # 🚀 Cryp
 
-**A decentralized crypto price tracker built for Ghana, powered by blockchain.**
-
+**A decentralized crypto price tracker built for Ghana, powe
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
