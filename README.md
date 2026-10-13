@@ -8,11 +8,7 @@
 │   ├── 📂 hooks/          # Custom React hooks (price fetching, Web3)
 │   ├── 📂 utils/          # API helpers and├── 📂 test/               # Contract tests
 ├── 📄 .env.example        # Environment variable template
-└── 📄 truffle-config.js
-```
-
----
-
+└── 📄 t
 ## 🌐 Environment Variables
 
 Create a `.env` file in the root directory:
