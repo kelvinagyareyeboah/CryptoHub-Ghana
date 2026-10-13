@@ -6,7 +6,7 @@
 [![Ethereum](https://img.shields.io/badge/Network&logoColor=white)](https://ethereum.org/)
 [![Web3.js](https://img.shields.io/badge/Web3.js-1.x-F16822?logo=web3dotjs&logoColor=white)](https://web3js.readthedocs.io/)
 [![CoinGecko](https://img.shields.io/badge/API-CoinGecko-8DC63F?logo=coingecko&logoColor=white)](https://www.coingecko.com/en/api)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/ceen.svg)](CONTRIBUTING.md)
 [![Made in Ghana](https://img.shields.io/badge/Made%20in-Ghana%20🇬🇭-006B3F)](https://github.com/KelvCodes/CryptoHubGhana)
 
 Real-time crypto prices. On-chain interaction logging. Wallet-connected.  
