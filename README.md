@@ -1,4 +1,4 @@
-https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+hields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Reacthttps://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Solidity](https://img.shields.io/badge/Solidity-0.8-363636?logo=solidity&logoColor=white)](https://soliditylang.org/)
 [![Ethereum](https://img.shields.io/badge/Network&logoColor=white)](https://ethereum.org/)
