@@ -5,8 +5,7 @@ Open [http://localhost:3000](http://loca your wallet, and start tracking. 🎉
 
 ---
 
-## 🔄 How It Works
-
+## 🔄
 ```
 Connect Wallet  →  Fetch Live Prices  →  Interact with dApp  →  Log to Blockchain
      🦊                  📈                      🖱️                     🔗
