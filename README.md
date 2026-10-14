@@ -6,7 +6,7 @@
 
 Create a `.env` file in
 REACT_APP_COINGECKO_API_KEY=your_api_key_here
-REACT_APP_RPC_URL=https://you``
+REACT_APP_RPC_URL=https
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub issues](https://img.shields.io/github/issues/KelvCodes/CryptoHubGhana)](https://github.com/KelvCodes/CryptoHubGhana/issues)
 [![GitHub forks](https://img.shields.io/github/forks/KelvCodes/CryptoHubGhana)](https://github.com/KelvCodes/CryptoHubGhana/network)
