@@ -9,7 +9,7 @@ REACT_APP_RPC_URL=https
 [![GitHub forks](https://img.shields.io/gith.com/KelvCodes/CryptoHubGhana/network)
 [![GitHub stars](https://img.shields.io/github/stars/KelvCodes/CryptoHubGhana)](https://github.com/KelvCodes/CryptoHubGhana/stargazers)
 
-All contributions are welcome — whether it's a bug fix, new feature, or docs improvement.
+All contributions are welcome — whether it's a bug fix, new improvement.
 
 1. 🍴 Fork the repository
 2. 🌿 Create a feature branch: `git checkout -b feature/your-feature`
