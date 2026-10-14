@@ -6,7 +6,7 @@
 REACT_APP_RPC_URL=https
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-briCONTRIBUTING.md)
 [![GitHub issues](https://img.shields.io/github/issues/KelvCodes/CryptoHubGhana)](https://github.com/KelvCodes/CryptoHubGhana/issues)
-[![GitHub forks](https://img.shields.io/github/forks/KelvCodes/CryptoHubGhana)](https://github.com/KelvCodes/CryptoHubGhana/network)
+[![GitHub forks](https://img.shields.io/gith.com/KelvCodes/CryptoHubGhana/network)
 [![GitHub stars](https://img.shields.io/github/stars/KelvCodes/CryptoHubGhana)](https://github.com/KelvCodes/CryptoHubGhana/stargazers)
 
 All contributions are welcome — whether it's a bug fix, new feature, or docs improvement.
