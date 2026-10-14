@@ -4,7 +4,7 @@
 4. 🔗 **Log** — each interaction is optionally recorded on-chain for full transparency
 5. 📜 **Audit** — anyone can verify the i├── 📂 migrations/         # Truffle deployment sREACT_APP_COINGECKO_API_KEY=your_api_key_here
 REACT_APP_RPC_URL=https
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-briCONTRIBUTING.md)
 [![GitHub issues](https://img.shields.io/github/issues/KelvCodes/CryptoHubGhana)](https://github.com/KelvCodes/CryptoHubGhana/issues)
 [![GitHub forks](https://img.shields.io/github/forks/KelvCodes/CryptoHubGhana)](https://github.com/KelvCodes/CryptoHubGhana/network)
 [![GitHub stars](https://img.shields.io/github/stars/KelvCodes/CryptoHubGhana)](https://github.com/KelvCodes/CryptoHubGhana/stargazers)
