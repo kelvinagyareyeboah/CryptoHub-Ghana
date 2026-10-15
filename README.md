@@ -1,5 +1,5 @@
 te coins
-4. 🔗 **Log** — each interaction is optionally rec for full
+ch interaction is optionally rec for full
 5. 📜 **Audit** — anyone can verify the i├── 📂 migrations/         # Truffle deployment sREACT_APP_COINGECKO_API_KEY=your_api_key_here
 REACT_APP_RPC_URL=https
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-bri
