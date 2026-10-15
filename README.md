@@ -5,6 +5,6 @@ REACT_APP_RPC_URL=https
 3. 💾 Commit your cht -m "A
 [M
 
-*Built with 🖤 to bring crypto transparency to Ghana an
+*Built with 🖤 to bring crypto transparen
 [![GitHub](https://img.shields.io/badge/GitHub-KelvCodes-181717?logogoColor=white)](https://github.com/Ke
 </div>
