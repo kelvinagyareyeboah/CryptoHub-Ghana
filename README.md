@@ -10,8 +10,7 @@ Pleas
 
 <div al
 
-*Built with 🖤 to bring crypto transparency to Ghana and the world.*
-
+*Built with 🖤 to bring crypto transparency to Ghana an
 [![GitHub](https://img.shields.io/badge/GitHub-KelvCodes-181717?logo=github&logoColor=white)](https://github.com/KelvCodes)
 
 </div>
