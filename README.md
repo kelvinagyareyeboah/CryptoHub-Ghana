@@ -4,7 +4,7 @@ lockchain Bridge | Web3.js | ![Web3](https://img.shields.io/badge/Web3.js-F16822
 5. 📜 **Audit** — anyone can verify the i├── 📂 migrations/         # Truffle deployment sREACT_APP_COINGECKO_API_KEY=your_api_key_here
 REACT_APP_RPC_URL=https
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-bri
-[![GitHub issues](https://img.shields.io/git/CryptoHubGhan)](https://github.com/KelvCodes/CryptoHubGh[![GitHub stars](https://img.shields.io/github/stars/KelvCod)](https://github.com/KelvCodes/CryptoHubG
+[![GitHub issues](https://img.shields.io/git/CryptoHubGhb.com/KelvCodes/CryptoHubGh[![GitHub stars](https://img.shields.io/github/stars/KelvCod)](https://github.com/KelvCodes/CryptoHubG
 All contributions are welcome — wheth
 1. 
 2. 🌿 Create a feature branure/your-feature`
