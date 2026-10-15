@@ -7,7 +7,7 @@ REACT_APP_RPC_URL=https
 [![GitHub issues](https://img.shields.io/git/CryptoHubGhan)](https://github.com/KelvCodes/CryptoHubGh[![GitHub stars](https://img.shields.io/github/stars/KelvCod)](https://github.com/KelvCodes/CryptoHubG
 All contributions are welcome — wheth
 1. 
-2. 🌿 Create a feature branch: `git checkout -b feature/your-feature`
+2. 🌿 Create a feature branure/your-feature`
 3. 💾 Commit your cht -m "Add your feature"`
 4. 🚀 Push and open a Pull Request
 
