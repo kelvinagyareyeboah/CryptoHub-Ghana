@@ -6,7 +6,7 @@ All
 2. 🌿 Create a feature branure/your
 3. 💾 Commit your cht -m "Add your feature"`
 Pleas
-[![License: MIT](https://img.shield
+[![License: MIT](https:/
 [MIT](LICENSE) — free to use, modify, and distribute.
 
 ---
