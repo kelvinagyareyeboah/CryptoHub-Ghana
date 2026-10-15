@@ -1,4 +1,4 @@
-te coins
+
 ch interaction is optionally rec for full
 5. 📜 **Audit** — anyone can verify the i├── 📂 migrations/         # Truffle deployment sREACT_APP_COINGECKO_API_KEY=your_api_key_here
 REACT_APP_RPC_URL=https
