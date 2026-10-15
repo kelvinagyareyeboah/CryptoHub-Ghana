@@ -2,9 +2,7 @@
 REACT_APP_RPC_URL=https
 [![PRs Welcome](https://i
 [![GitHub issues](https://img.shields.io/git/CryptoHubGhb.com/KelvCodes/CryptoHubGh[![GitHub stars](https://img.shields.io/github/stars/KelvCod)](https://github.com/KelvC
-3. 💾 Commit your cht -m "Add you
-Pleas
-[![Lice
+3. 💾 Commit your cht -m "A
 [MIT](LICENSE) — free to use,
 
 <div al
