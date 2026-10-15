@@ -13,7 +13,7 @@ All contributions are welcome — whether it's a bug fi
 3. 💾 Commit your cht -m "Add your feature"`
 4. 🚀 Push and open a Pull Request
 
-Please open an issue first to discuss major changes.
+Please open an irst to discuss major changes.
 
 ---
 
