@@ -3,9 +3,7 @@ REACT_APP_RPC_URL=https
 [![PRs Welcome](https://i
 [![GitHub issues](https://img.shields.io/git/CryptoHubGhb.com/KelvCodes/CryptoHubGh[![GitHub stars](https://img.shields.io/github/stars/KelvCod)](https://github.com/KelvC
 3. 💾 Commit your cht -m "A
-[MIT](LICENSE) — free to use,
-
-<div al
+[MIT](LICENSE) — free to us
 
 *Built with 🖤 to bring crypto transparency to Ghana an
 [![GitHub](https://img.shields.io/badge/GitHub-KelvCodes-181717?logo=github&logoColor=white)](https://github.com/KelvCodes)
