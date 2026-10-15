@@ -6,6 +6,6 @@ REACT_APP_RPC_URL=https
 [MIT](LICENSE) — free to us
 
 *Built with 🖤 to bring crypto transparency to Ghana an
-[![GitHub](https://img.shields.io/badge/GitHub-KelvCodes-181717?logo=github&logoColor=white)](https://github.com/KelvCodes)
+[![GitHub](https://img.shields.io/badge/GitHub-KelvCodes-181717?logogoColor=white)](https://github.com/KelvCodes)
 
 </div>
