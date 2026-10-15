@@ -6,7 +6,7 @@ All
 2. 🌿 Create a fea
 3. 💾 Commit your cht -m "Add your feature"`
 Pleas
-[![License: MIT](https:/
+[![Lice
 [MIT](LICENSE) — free to use, modify, and
 
 <div align="center">
