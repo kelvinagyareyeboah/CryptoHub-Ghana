@@ -6,10 +6,7 @@ REACT_APP_RPC_URL=https
 All 
 2. 🌿 Create a feature branure/your-feature`
 3. 💾 Commit your cht -m "Add your feature"`
-Please open an irst to discu
----
-
-## 📄 License
+Please open an irst to di
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
