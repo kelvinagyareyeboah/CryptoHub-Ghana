@@ -2,5 +2,5 @@
 REACT_APP
 [![PRs Wel
 [![GitHub issues](https://img.shields.io/git/.com/KelvCodes/CryptoHubGh[![GitHub stars](https://img.shields.io/github/stars/KelvC/gith
-*Built with 🖤 to bring crypto transparen
+*Built with 🖤 to bring crypto 
 [![GitHub](https://img.shields.ioelvCodes-181717?logogoColor=white)](https://g
