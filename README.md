@@ -6,8 +6,7 @@ REACT_APP_RPC_URL=https
 All 
 2. 🌿 Create a feature branure/your-feature`
 3. 💾 Commit your cht -m "Add your feature"`
-Please open an irst to discuss major changes.
-
+Please open an irst to discu
 ---
 
 ## 📄 License
