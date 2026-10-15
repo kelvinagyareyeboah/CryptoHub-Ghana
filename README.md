@@ -1,7 +1,7 @@
 
 5. 📜 **Audit** — anyone can verify the i├── 📂 migrations/         # Truffle deployment sREACT_APP_COINGECKO_API_KEY=your_api_key_here
 REACT_APP_RPC_URL=https
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-bri
+[![PRs Welcome](https://img.shields.io/ba
 [![GitHub issues](https://img.shields.io/git/CryptoHubGhb.com/KelvCodes/CryptoHubGh[![GitHub stars](https://img.shields.io/github/stars/KelvCod)](https://github.com/KelvCodes/CryptoHubG
 All 
 2. 🌿 Create a feature branure/your-feature`
