@@ -6,5 +6,5 @@ REACT_APP_RPC_URL=https
 [M
 
 *Built with 🖤 to bring crypto transparen
-[![GitHub](https://img.shields.io/badge/GitHub-KelvCodes-181717?logogoColor=white)](https://github.com/Ke
+[![GitHub](https://img.shields.ioelvCodes-181717?logogoColor=white)](https://github.com/Ke
 </div>
