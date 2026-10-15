@@ -3,8 +3,7 @@
 REACT_APP_RPC_URL=https
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-bri
 [![GitHub issues](https://img.shields.io/git/CryptoHubGhb.com/KelvCodes/CryptoHubGh[![GitHub stars](https://img.shields.io/github/stars/KelvCod)](https://github.com/KelvCodes/CryptoHubG
-All contributions 
-1. 
+All 
 2. 🌿 Create a feature branure/your-feature`
 3. 💾 Commit your cht -m "Add your feature"`
 4. 🚀 Push and open a 
