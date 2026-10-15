@@ -7,9 +7,7 @@ All
 3. 💾 Commit your cht -m "Add your feature"`
 Pleas
 [![License: MIT](https:/
-[MIT](LICENSE) — free to use, modify, and distribute.
-
----
+[MIT](LICENSE) — free to use, modify, and
 
 <div align="center">
 
