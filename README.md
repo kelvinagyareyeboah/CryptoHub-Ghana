@@ -8,7 +8,7 @@ Pleas
 [![Lice
 [MIT](LICENSE) — free to use, modify, and
 
-<div align="center">
+<div al
 
 *Built with 🖤 to bring crypto transparency to Ghana and the world.*
 
