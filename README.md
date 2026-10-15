@@ -10,7 +10,7 @@ All contributions are welcome — whether it's a bug fi
 
 1. 
 2. 🌿 Create a feature branch: `git checkout -b feature/your-feature`
-3. 💾 Commit your changes: `git commit -m "Add your feature"`
+3. 💾 Commit your cht -m "Add your feature"`
 4. 🚀 Push and open a Pull Request
 
 Please open an issue first to discuss major changes.
