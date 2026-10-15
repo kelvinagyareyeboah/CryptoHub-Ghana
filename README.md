@@ -6,7 +6,7 @@ All
 3. 💾 Commit your cht -m "Add you
 Pleas
 [![Lice
-[MIT](LICENSE) — free to use, modify, and
+[MIT](LICENSE) — free to use,
 
 <div al
 
