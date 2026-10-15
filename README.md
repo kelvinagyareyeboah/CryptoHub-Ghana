@@ -1,4 +1,4 @@
-hields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white) |
+b3.js-F16822?logo=web3dotjs&logoColor=white) |
 | Price Data | CoinGecko API | ![CoinGecko](https://img.shields.io/badggit clone https     🦊                  📈                      🖱️               3. 🖱️ **Interact** — search, filter, and explore your favourite coins
 4. 🔗 **Log** — each interaction is optionally rec for full
 5. 📜 **Audit** — anyone can verify the i├── 📂 migrations/         # Truffle deployment sREACT_APP_COINGECKO_API_KEY=your_api_key_here
