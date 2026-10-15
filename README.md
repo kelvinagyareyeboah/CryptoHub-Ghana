@@ -1,7 +1,7 @@
 — anyone can verify the i├── 📂 migrations/         # Truffle deployment sREACT_APP_COINGECKO_API_KEY=your_api_key_here
 REACT_APP_RPC_URL=https
 [![PRs Welcome](https://i
-[![GitHub issues](https://img.shields.io/git/CryptoHubGhb.com/KelvCodes/CryptoHubGh[![GitHub stars](https://img.shields.io/github/stars/KelvCod)](https://github.com/KelvC
+[![GitHub issues](https://img.shields.io/git/CryptoHubGhb.com/KelvCodes/CryptoHubGh[![GitHub stars](https://img.shields.io/github/stars/KelvC/github.com/KelvC
 3. 💾 Commit your cht -m "A
 [MIT](LICENSE) —
 
