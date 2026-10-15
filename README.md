@@ -7,7 +7,7 @@ All
 2. 🌿 Create a feature branure/your-feature`
 3. 💾 Commit your cht -m "Add your feature"`
 Pleas
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MITE)
 
 [MIT](LICENSE) — free to use, modify, and distribute.
 
