@@ -1,3 +1,3 @@
 
-[![GitHub(https://s.io/oHu[Giimg
+[![GitHub(https://soHu[Giimg
 *Bui
